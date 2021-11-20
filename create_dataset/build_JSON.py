@@ -1,10 +1,18 @@
 import json
 
 i=1
-lst =  []
-with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/conds.JSON", "w") as jsonFile:
+lstConds =  []
+j=1
+lstTherapies =  []
+with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/dataset.JSON", "w") as jsonFile:
+    
     with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/conditions.txt") as file:
         for line in file:
-            lst.append({'id': i, 'type': "Condition", 'name': line.rstrip()})          
+            lstConds.append({'id': i, 'type': "Condition", 'name': line.rstrip()})          
             i+=1
-    json.dump(lst, jsonFile, indent = 4)
+    json.dump(lstConds, jsonFile, indent = 4)
+    with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/therapies.txt") as file:
+        for line in file:
+            lstTherapies.append({'id': j, 'type': "Therapy", 'name': line.rstrip()})          
+            j+=1
+    json.dump(lstTherapies, jsonFile, indent = 4)

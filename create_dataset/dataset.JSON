@@ -1609,4 +1609,495 @@
         "type": "Condition",
         "name": "Yellow fever"
     }
+][
+    {
+        "id": 1,
+        "type": "Therapy",
+        "name": "abortive therapy"
+    },
+    {
+        "id": 2,
+        "type": "Therapy",
+        "name": "acupressure\u00a0(some scientific aspects, many prescientific)"
+    },
+    {
+        "id": 3,
+        "type": "Therapy",
+        "name": "acupuncture\u00a0(some scientific aspects, many prescientific)"
+    },
+    {
+        "id": 4,
+        "type": "Therapy",
+        "name": "adjunct therapy"
+    },
+    {
+        "id": 5,
+        "type": "Therapy",
+        "name": "adjunctive therapy"
+    },
+    {
+        "id": 6,
+        "type": "Therapy",
+        "name": "adjuvant therapy"
+    },
+    {
+        "id": 7,
+        "type": "Therapy",
+        "name": "alternative therapy"
+    },
+    {
+        "id": 8,
+        "type": "Therapy",
+        "name": "androgen replacement therapy"
+    },
+    {
+        "id": 9,
+        "type": "Therapy",
+        "name": "animal-assisted therapy"
+    },
+    {
+        "id": 10,
+        "type": "Therapy",
+        "name": "antibody therapy"
+    },
+    {
+        "id": 11,
+        "type": "Therapy",
+        "name": "antihormone therapy"
+    },
+    {
+        "id": 12,
+        "type": "Therapy",
+        "name": "antiserum\u00a0therapy"
+    },
+    {
+        "id": 13,
+        "type": "Therapy",
+        "name": "aquarium therapy"
+    },
+    {
+        "id": 14,
+        "type": "Therapy",
+        "name": "aquatic therapy"
+    },
+    {
+        "id": 15,
+        "type": "Therapy",
+        "name": "aromatherapy"
+    },
+    {
+        "id": 16,
+        "type": "Therapy",
+        "name": "art therapy"
+    },
+    {
+        "id": 17,
+        "type": "Therapy",
+        "name": "Auger therapy"
+    },
+    {
+        "id": 18,
+        "type": "Therapy",
+        "name": "aurotherapy"
+    },
+    {
+        "id": 19,
+        "type": "Therapy",
+        "name": "autism therapies"
+    },
+    {
+        "id": 20,
+        "type": "Therapy",
+        "name": "autologous immune enhancement therapy"
+    },
+    {
+        "id": 21,
+        "type": "Therapy",
+        "name": "balneotherapy"
+    },
+    {
+        "id": 22,
+        "type": "Therapy",
+        "name": "bioidentical hormone replacement therapy"
+    },
+    {
+        "id": 23,
+        "type": "Therapy",
+        "name": "biotherapy"
+    },
+    {
+        "id": 24,
+        "type": "Therapy",
+        "name": "blood irradiation therapy"
+    },
+    {
+        "id": 25,
+        "type": "Therapy",
+        "name": "brachytherapy"
+    },
+    {
+        "id": 26,
+        "type": "Therapy",
+        "name": "cardiac resynchronization therapy"
+    },
+    {
+        "id": 27,
+        "type": "Therapy",
+        "name": "cell therapy"
+    },
+    {
+        "id": 28,
+        "type": "Therapy",
+        "name": "cytotherapy"
+    },
+    {
+        "id": 29,
+        "type": "Therapy",
+        "name": "cell transfer therapy"
+    },
+    {
+        "id": 30,
+        "type": "Therapy",
+        "name": "chelation therapy"
+    },
+    {
+        "id": 31,
+        "type": "Therapy",
+        "name": "chemotherapy"
+    },
+    {
+        "id": 32,
+        "type": "Therapy",
+        "name": "Chinese food therapy"
+    },
+    {
+        "id": 33,
+        "type": "Therapy",
+        "name": "chiropractic\u00a0therapy"
+    },
+    {
+        "id": 34,
+        "type": "Therapy",
+        "name": "chronotherapy"
+    },
+    {
+        "id": 35,
+        "type": "Therapy",
+        "name": "chrysotherapy"
+    },
+    {
+        "id": 36,
+        "type": "Therapy",
+        "name": "climatotherapy"
+    },
+    {
+        "id": 37,
+        "type": "Therapy",
+        "name": "cobalt therapy"
+    },
+    {
+        "id": 38,
+        "type": "Therapy",
+        "name": "cold compression therapy"
+    },
+    {
+        "id": 39,
+        "type": "Therapy",
+        "name": "combination therapy"
+    },
+    {
+        "id": 40,
+        "type": "Therapy",
+        "name": "consolidation therapy"
+    },
+    {
+        "id": 41,
+        "type": "Therapy",
+        "name": "contrast bath therapy"
+    },
+    {
+        "id": 42,
+        "type": "Therapy",
+        "name": "counseling"
+    },
+    {
+        "id": 43,
+        "type": "Therapy",
+        "name": "craniosacral therapy"
+    },
+    {
+        "id": 44,
+        "type": "Therapy",
+        "name": "cryotherapy"
+    },
+    {
+        "id": 45,
+        "type": "Therapy",
+        "name": "crystal therapy"
+    },
+    {
+        "id": 46,
+        "type": "Therapy",
+        "name": "cupping therapy"
+    },
+    {
+        "id": 47,
+        "type": "Therapy",
+        "name": "curative therapy"
+    },
+    {
+        "id": 48,
+        "type": "Therapy",
+        "name": "cytoluminescent therapy"
+    },
+    {
+        "id": 49,
+        "type": "Therapy",
+        "name": "dark therapy"
+    },
+    {
+        "id": 50,
+        "type": "Therapy",
+        "name": "definitive therapy"
+    },
+    {
+        "id": 51,
+        "type": "Therapy",
+        "name": "destination therapy"
+    },
+    {
+        "id": 52,
+        "type": "Therapy",
+        "name": "diathermy"
+    },
+    {
+        "id": 53,
+        "type": "Therapy",
+        "name": "diesel therapy"
+    },
+    {
+        "id": 54,
+        "type": "Therapy",
+        "name": "dietary therapy"
+    },
+    {
+        "id": 55,
+        "type": "Therapy",
+        "name": "drug therapy"
+    },
+    {
+        "id": 56,
+        "type": "Therapy",
+        "name": "duct tape occlusion therapy"
+    },
+    {
+        "id": 57,
+        "type": "Therapy",
+        "name": "electrohomeopathy"
+    },
+    {
+        "id": 58,
+        "type": "Therapy",
+        "name": "electroconvulsive therapy"
+    },
+    {
+        "id": 59,
+        "type": "Therapy",
+        "name": "electromagnetic therapy"
+    },
+    {
+        "id": 60,
+        "type": "Therapy",
+        "name": "electron therapy"
+    },
+    {
+        "id": 61,
+        "type": "Therapy",
+        "name": "electrotherapy"
+    },
+    {
+        "id": 62,
+        "type": "Therapy",
+        "name": "empiric therapy"
+    },
+    {
+        "id": 63,
+        "type": "Therapy",
+        "name": "energy therapy"
+    },
+    {
+        "id": 64,
+        "type": "Therapy",
+        "name": "enzyme replacement therapy"
+    },
+    {
+        "id": 65,
+        "type": "Therapy",
+        "name": "epigenetic therapy"
+    },
+    {
+        "id": 66,
+        "type": "Therapy",
+        "name": "equine therapy"
+    },
+    {
+        "id": 67,
+        "type": "Therapy",
+        "name": "estrogen replacement therapy"
+    },
+    {
+        "id": 68,
+        "type": "Therapy",
+        "name": "exercise therapy"
+    },
+    {
+        "id": 69,
+        "type": "Therapy",
+        "name": "extracorporeal shockwave therapy"
+    },
+    {
+        "id": 70,
+        "type": "Therapy",
+        "name": "fast neutron therapy"
+    },
+    {
+        "id": 71,
+        "type": "Therapy",
+        "name": "Feldenkrais therapy"
+    },
+    {
+        "id": 72,
+        "type": "Therapy",
+        "name": "feminizing hormone therapy"
+    },
+    {
+        "id": 73,
+        "type": "Therapy",
+        "name": "fluoride therapy"
+    },
+    {
+        "id": 74,
+        "type": "Therapy",
+        "name": "gene therapy"
+    },
+    {
+        "id": 75,
+        "type": "Therapy",
+        "name": "gene therapy for color blindness"
+    },
+    {
+        "id": 76,
+        "type": "Therapy",
+        "name": "gene therapy for epilepsy"
+    },
+    {
+        "id": 77,
+        "type": "Therapy",
+        "name": "gene therapy for osteoarthritis"
+    },
+    {
+        "id": 78,
+        "type": "Therapy",
+        "name": "gene therapy in Parkinson's disease"
+    },
+    {
+        "id": 79,
+        "type": "Therapy",
+        "name": "gene therapy of the human retina"
+    },
+    {
+        "id": 80,
+        "type": "Therapy",
+        "name": "gold standard therapy"
+    },
+    {
+        "id": 81,
+        "type": "Therapy",
+        "name": "grape therapy"
+    },
+    {
+        "id": 82,
+        "type": "Therapy",
+        "name": "Greyhound therapy"
+    },
+    {
+        "id": 83,
+        "type": "Therapy",
+        "name": "halotherapy"
+    },
+    {
+        "id": 84,
+        "type": "Therapy",
+        "name": "heat therapy"
+    },
+    {
+        "id": 85,
+        "type": "Therapy",
+        "name": "helminthic therapy"
+    },
+    {
+        "id": 86,
+        "type": "Therapy",
+        "name": "herbal therapy"
+    },
+    {
+        "id": 87,
+        "type": "Therapy",
+        "name": "hippotherapy"
+    },
+    {
+        "id": 88,
+        "type": "Therapy",
+        "name": "hormone therapy"
+    },
+    {
+        "id": 89,
+        "type": "Therapy",
+        "name": "hormonal therapy"
+    },
+    {
+        "id": 90,
+        "type": "Therapy",
+        "name": "hormone replacement therapy"
+    },
+    {
+        "id": 91,
+        "type": "Therapy",
+        "name": "horticultural therapy"
+    },
+    {
+        "id": 92,
+        "type": "Therapy",
+        "name": "host modulatory therapy"
+    },
+    {
+        "id": 93,
+        "type": "Therapy",
+        "name": "hydrotherapy"
+    },
+    {
+        "id": 94,
+        "type": "Therapy",
+        "name": "hyperbaric oxygen therapy"
+    },
+    {
+        "id": 95,
+        "type": "Therapy",
+        "name": "hyperthermia therapy"
+    },
+    {
+        "id": 96,
+        "type": "Therapy",
+        "name": "hypothermia therapy for neonatal encephalopathy"
+    },
+    {
+        "id": 97,
+        "type": "Therapy",
+        "name": "ichthyotherapy"
+    },
+    {
+        "id": 98,
+        "type": "Therapy",
+        "name": "immunosuppressive therapy"
+    }
 ]
