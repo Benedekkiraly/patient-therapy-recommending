@@ -11,6 +11,7 @@ with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejl
             lstConds.append({'id': i, 'type': "Condition", 'name': line.rstrip()})          
             i+=1
     json.dump(lstConds, jsonFile, indent = 4)
+    
     with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/therapies.txt") as file:
         for line in file:
             lstTherapies.append({'id': j, 'type': "Therapy", 'name': line.rstrip()})          
