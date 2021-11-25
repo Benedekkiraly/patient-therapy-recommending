@@ -1,86 +1,18 @@
 [
     {
         "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
+        "startdate": "20150101",
+        "enddate": "20251005",
+        "condition": "Bowel cancer",
+        "therapy": "gene therapy",
+        "successful": 18
     },
     {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
-    },
-    {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
-    },
-    {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
-    },
-    {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
-    },
-    {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
-    },
-    {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
-    },
-    {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
-    },
-    {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
-    },
-    {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
-    },
-    {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
-    },
-    {
-        "id": 1,
-        "timestamp": "",
-        "condition": "xds",
-        "therapy": "xx",
-        "outcome": "xx"
+        "id": 2,
+        "startdate": "20150101",
+        "enddate": "20181024",
+        "condition": "Bronchiectasis",
+        "therapy": "Chinese food therapy",
+        "successful": 68
     }
 ]

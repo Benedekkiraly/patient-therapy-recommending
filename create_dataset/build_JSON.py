@@ -10,10 +10,13 @@ with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejl
         for line in file:
             lstConds.append({'id': i, 'type': "Condition", 'name': line.rstrip()})          
             i+=1
-    json.dump(lstConds, jsonFile, indent = 4)
+    #json.dump(lstConds, jsonFile, indent = 4)
     
     with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/therapies.txt") as file:
         for line in file:
             lstTherapies.append({'id': j, 'type': "Therapy", 'name': line.rstrip()})          
             j+=1
-    json.dump(lstTherapies, jsonFile, indent = 4)
+    #json.dump(lstTherapies, jsonFile, indent = 4)
+
+    myJSON ={ 'Conditions': lstConds, 'Therapies' : lstTherapies}
+    json.dump(myJSON, jsonFile, indent = 4)

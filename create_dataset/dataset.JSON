@@ -1,2103 +1,2106 @@
-[
-    {
-        "id": 1,
-        "type": "Condition",
-        "name": "Abdominal aortic aneurysm"
-    },
-    {
-        "id": 2,
-        "type": "Condition",
-        "name": "Acne"
-    },
-    {
-        "id": 3,
-        "type": "Condition",
-        "name": "Acute cholecystitis"
-    },
-    {
-        "id": 4,
-        "type": "Condition",
-        "name": "Acute lymphoblastic leukaemia"
-    },
-    {
-        "id": 5,
-        "type": "Condition",
-        "name": "Acute lymphoblastic leukaemia: Children"
-    },
-    {
-        "id": 6,
-        "type": "Condition",
-        "name": "Acute lymphoblastic leukaemia: Teenagers and young adults"
-    },
-    {
-        "id": 7,
-        "type": "Condition",
-        "name": "Acute myeloid leukaemia"
-    },
-    {
-        "id": 8,
-        "type": "Condition",
-        "name": "Acute myeloid leukaemia: Children"
-    },
-    {
-        "id": 9,
-        "type": "Condition",
-        "name": "Acute myeloid leukaemia: Teenagers and young adults"
-    },
-    {
-        "id": 10,
-        "type": "Condition",
-        "name": "Acute pancreatitis"
-    },
-    {
-        "id": 11,
-        "type": "Condition",
-        "name": "Addison's disease"
-    },
-    {
-        "id": 12,
-        "type": "Condition",
-        "name": "Alcohol-related liver disease"
-    },
-    {
-        "id": 13,
-        "type": "Condition",
-        "name": "Allergic rhinitis"
-    },
-    {
-        "id": 14,
-        "type": "Condition",
-        "name": "Allergies"
-    },
-    {
-        "id": 15,
-        "type": "Condition",
-        "name": "Alzheimer's disease"
-    },
-    {
-        "id": 16,
-        "type": "Condition",
-        "name": "Anal cancer"
-    },
-    {
-        "id": 17,
-        "type": "Condition",
-        "name": "Anaphylaxis"
-    },
-    {
-        "id": 18,
-        "type": "Condition",
-        "name": "Angioedema"
-    },
-    {
-        "id": 19,
-        "type": "Condition",
-        "name": "Ankylosing spondylitis"
-    },
-    {
-        "id": 20,
-        "type": "Condition",
-        "name": "Anorexia nervosa"
-    },
-    {
-        "id": 21,
-        "type": "Condition",
-        "name": "Anxiety"
-    },
-    {
-        "id": 22,
-        "type": "Condition",
-        "name": "Anxiety disorders in children"
-    },
-    {
-        "id": 23,
-        "type": "Condition",
-        "name": "Appendicitis"
-    },
-    {
-        "id": 24,
-        "type": "Condition",
-        "name": "Arthritis"
-    },
-    {
-        "id": 25,
-        "type": "Condition",
-        "name": "Asbestosis"
-    },
-    {
-        "id": 26,
-        "type": "Condition",
-        "name": "Asthma"
-    },
-    {
-        "id": 27,
-        "type": "Condition",
-        "name": "Atopic eczema"
-    },
-    {
-        "id": 28,
-        "type": "Condition",
-        "name": "Attention deficit hyperactivity disorder (ADHD)"
-    },
-    {
-        "id": 29,
-        "type": "Condition",
-        "name": "Autistic spectrum disorder (ASD)"
-    },
-    {
-        "id": 30,
-        "type": "Condition",
-        "name": "Bacterial vaginosis"
-    },
-    {
-        "id": 31,
-        "type": "Condition",
-        "name": "Benign prostate enlargement"
-    },
-    {
-        "id": 32,
-        "type": "Condition",
-        "name": "Bile duct cancer (cholangiocarcinoma)"
-    },
-    {
-        "id": 33,
-        "type": "Condition",
-        "name": "Binge eating"
-    },
-    {
-        "id": 34,
-        "type": "Condition",
-        "name": "Bipolar disorder"
-    },
-    {
-        "id": 35,
-        "type": "Condition",
-        "name": "Bladder cancer"
-    },
-    {
-        "id": 36,
-        "type": "Condition",
-        "name": "Blood poisoning (sepsis)"
-    },
-    {
-        "id": 37,
-        "type": "Condition",
-        "name": "Bone cancer"
-    },
-    {
-        "id": 38,
-        "type": "Condition",
-        "name": "Bone cancer: Teenagers and young adults"
-    },
-    {
-        "id": 39,
-        "type": "Condition",
-        "name": "Bowel cancer"
-    },
-    {
-        "id": 40,
-        "type": "Condition",
-        "name": "Bowel incontinence"
-    },
-    {
-        "id": 41,
-        "type": "Condition",
-        "name": "Bowel polyps"
-    },
-    {
-        "id": 42,
-        "type": "Condition",
-        "name": "Brain stem death"
-    },
-    {
-        "id": 43,
-        "type": "Condition",
-        "name": "Brain tumours"
-    },
-    {
-        "id": 44,
-        "type": "Condition",
-        "name": "Brain tumours: Children"
-    },
-    {
-        "id": 45,
-        "type": "Condition",
-        "name": "Brain tumours: Teenagers and young adults"
-    },
-    {
-        "id": 46,
-        "type": "Condition",
-        "name": "Breast cancer (female)"
-    },
-    {
-        "id": 47,
-        "type": "Condition",
-        "name": "Breast cancer (male)"
-    },
-    {
-        "id": 48,
-        "type": "Condition",
-        "name": "Bronchiectasis"
-    },
-    {
-        "id": 49,
-        "type": "Condition",
-        "name": "Bronchitis"
-    },
-    {
-        "id": 50,
-        "type": "Condition",
-        "name": "Bulimia"
-    },
-    {
-        "id": 51,
-        "type": "Condition",
-        "name": "Bunion"
-    },
-    {
-        "id": 52,
-        "type": "Condition",
-        "name": "Carcinoid syndrome and carcinoid tumours"
-    },
-    {
-        "id": 53,
-        "type": "Condition",
-        "name": "Catarrh"
-    },
-    {
-        "id": 54,
-        "type": "Condition",
-        "name": "Cellulitis"
-    },
-    {
-        "id": 55,
-        "type": "Condition",
-        "name": "Cervical cancer"
-    },
-    {
-        "id": 56,
-        "type": "Condition",
-        "name": "Chest infection"
-    },
-    {
-        "id": 57,
-        "type": "Condition",
-        "name": "Chest pain"
-    },
-    {
-        "id": 58,
-        "type": "Condition",
-        "name": "Chickenpox"
-    },
-    {
-        "id": 59,
-        "type": "Condition",
-        "name": "Chilblains"
-    },
-    {
-        "id": 60,
-        "type": "Condition",
-        "name": "Chlamydia"
-    },
-    {
-        "id": 61,
-        "type": "Condition",
-        "name": "Chronic fatigue syndrome"
-    },
-    {
-        "id": 62,
-        "type": "Condition",
-        "name": "Chronic kidney disease"
-    },
-    {
-        "id": 63,
-        "type": "Condition",
-        "name": "Chronic lymphocytic leukaemia"
-    },
-    {
-        "id": 64,
-        "type": "Condition",
-        "name": "Chronic myeloid leukaemia"
-    },
-    {
-        "id": 65,
-        "type": "Condition",
-        "name": "Chronic obstructive pulmonary disease"
-    },
-    {
-        "id": 66,
-        "type": "Condition",
-        "name": "Chronic pancreatitis"
-    },
-    {
-        "id": 67,
-        "type": "Condition",
-        "name": "Cirrhosis"
-    },
-    {
-        "id": 68,
-        "type": "Condition",
-        "name": "Clostridium difficile"
-    },
-    {
-        "id": 69,
-        "type": "Condition",
-        "name": "Coeliac disease"
-    },
-    {
-        "id": 70,
-        "type": "Condition",
-        "name": "Cold sore"
-    },
-    {
-        "id": 71,
-        "type": "Condition",
-        "name": "Coma"
-    },
-    {
-        "id": 72,
-        "type": "Condition",
-        "name": "Common cold"
-    },
-    {
-        "id": 73,
-        "type": "Condition",
-        "name": "Common heart conditions"
-    },
-    {
-        "id": 74,
-        "type": "Condition",
-        "name": "Congenital heart disease"
-    },
-    {
-        "id": 75,
-        "type": "Condition",
-        "name": "Conjunctivitis"
-    },
-    {
-        "id": 76,
-        "type": "Condition",
-        "name": "Constipation"
-    },
-    {
-        "id": 77,
-        "type": "Condition",
-        "name": "Coronavirus (COVID-19)"
-    },
-    {
-        "id": 78,
-        "type": "Condition",
-        "name": "Cough"
-    },
-    {
-        "id": 79,
-        "type": "Condition",
-        "name": "Crohn's disease"
-    },
-    {
-        "id": 80,
-        "type": "Condition",
-        "name": "Croup"
-    },
-    {
-        "id": 81,
-        "type": "Condition",
-        "name": "Cystic fibrosis"
-    },
-    {
-        "id": 82,
-        "type": "Condition",
-        "name": "Cystitis"
-    },
-    {
-        "id": 83,
-        "type": "Condition",
-        "name": "Deafblindness"
-    },
-    {
-        "id": 84,
-        "type": "Condition",
-        "name": "Deep vein thrombosis"
-    },
-    {
-        "id": 85,
-        "type": "Condition",
-        "name": "Dehydration"
-    },
-    {
-        "id": 86,
-        "type": "Condition",
-        "name": "Dementia"
-    },
-    {
-        "id": 87,
-        "type": "Condition",
-        "name": "Dementia with Lewy bodies"
-    },
-    {
-        "id": 88,
-        "type": "Condition",
-        "name": "Dental abscess"
-    },
-    {
-        "id": 89,
-        "type": "Condition",
-        "name": "Depression"
-    },
-    {
-        "id": 90,
-        "type": "Condition",
-        "name": "Dermatitis herpetiformis"
-    },
-    {
-        "id": 91,
-        "type": "Condition",
-        "name": "Diabetes"
-    },
-    {
-        "id": 92,
-        "type": "Condition",
-        "name": "Diarrhoea"
-    },
-    {
-        "id": 93,
-        "type": "Condition",
-        "name": "Discoid eczema"
-    },
-    {
-        "id": 94,
-        "type": "Condition",
-        "name": "Diverticular disease and diverticulitis"
-    },
-    {
-        "id": 95,
-        "type": "Condition",
-        "name": "Dizziness (Lightheadedness)"
-    },
-    {
-        "id": 96,
-        "type": "Condition",
-        "name": "Down's syndrome"
-    },
-    {
-        "id": 97,
-        "type": "Condition",
-        "name": "Dry mouth"
-    },
-    {
-        "id": 98,
-        "type": "Condition",
-        "name": "Dysphagia (swallowing problems)"
-    },
-    {
-        "id": 99,
-        "type": "Condition",
-        "name": "Dystonia"
-    },
-    {
-        "id": 100,
-        "type": "Condition",
-        "name": "Earache"
-    },
-    {
-        "id": 101,
-        "type": "Condition",
-        "name": "Earwax build-up"
-    },
-    {
-        "id": 102,
-        "type": "Condition",
-        "name": "Ebola virus disease"
-    },
-    {
-        "id": 103,
-        "type": "Condition",
-        "name": "Ectopic pregnancy"
-    },
-    {
-        "id": 104,
-        "type": "Condition",
-        "name": "Endometriosis"
-    },
-    {
-        "id": 105,
-        "type": "Condition",
-        "name": "Epilepsy"
-    },
-    {
-        "id": 106,
-        "type": "Condition",
-        "name": "Erectile dysfunction (impotence)"
-    },
-    {
-        "id": 107,
-        "type": "Condition",
-        "name": "Escherichia coli (E. coli) O157"
-    },
-    {
-        "id": 108,
-        "type": "Condition",
-        "name": "Ewing sarcoma"
-    },
-    {
-        "id": 109,
-        "type": "Condition",
-        "name": "Ewing sarcoma: Children"
-    },
-    {
-        "id": 110,
-        "type": "Condition",
-        "name": "Eye cancer"
-    },
-    {
-        "id": 111,
-        "type": "Condition",
-        "name": "Febrile seizures"
-    },
-    {
-        "id": 112,
-        "type": "Condition",
-        "name": "Fever in adults"
-    },
-    {
-        "id": 113,
-        "type": "Condition",
-        "name": "Fever in children"
-    },
-    {
-        "id": 114,
-        "type": "Condition",
-        "name": "Fibroids"
-    },
-    {
-        "id": 115,
-        "type": "Condition",
-        "name": "Fibromyalgia"
-    },
-    {
-        "id": 116,
-        "type": "Condition",
-        "name": "Flatulence"
-    },
-    {
-        "id": 117,
-        "type": "Condition",
-        "name": "Flu"
-    },
-    {
-        "id": 118,
-        "type": "Condition",
-        "name": "Foetal alcohol syndrome"
-    },
-    {
-        "id": 119,
-        "type": "Condition",
-        "name": "Food poisoning"
-    },
-    {
-        "id": 120,
-        "type": "Condition",
-        "name": "Fungal nail infection"
-    },
-    {
-        "id": 121,
-        "type": "Condition",
-        "name": "Gallbladder cancer"
-    },
-    {
-        "id": 122,
-        "type": "Condition",
-        "name": "Gallstones"
-    },
-    {
-        "id": 123,
-        "type": "Condition",
-        "name": "Ganglion cyst"
-    },
-    {
-        "id": 124,
-        "type": "Condition",
-        "name": "Gastroenteritis"
-    },
-    {
-        "id": 125,
-        "type": "Condition",
-        "name": "Gastro-oesophageal reflux disease (GORD)"
-    },
-    {
-        "id": 126,
-        "type": "Condition",
-        "name": "Genital herpes"
-    },
-    {
-        "id": 127,
-        "type": "Condition",
-        "name": "Genital warts"
-    },
-    {
-        "id": 128,
-        "type": "Condition",
-        "name": "Germ cell tumours"
-    },
-    {
-        "id": 129,
-        "type": "Condition",
-        "name": "Glandular fever"
-    },
-    {
-        "id": 130,
-        "type": "Condition",
-        "name": "Gonorrhoea"
-    },
-    {
-        "id": 131,
-        "type": "Condition",
-        "name": "Gout"
-    },
-    {
-        "id": 132,
-        "type": "Condition",
-        "name": "Gum disease"
-    },
-    {
-        "id": 133,
-        "type": "Condition",
-        "name": "Haemorrhoids (piles)"
-    },
-    {
-        "id": 134,
-        "type": "Condition",
-        "name": "Hairy cell leukaemia"
-    },
-    {
-        "id": 135,
-        "type": "Condition",
-        "name": "Hand, foot and mouth disease"
-    },
-    {
-        "id": 136,
-        "type": "Condition",
-        "name": "Hay fever"
-    },
-    {
-        "id": 137,
-        "type": "Condition",
-        "name": "Head and neck cancer"
-    },
-    {
-        "id": 138,
-        "type": "Condition",
-        "name": "Head lice and nits"
-    },
-    {
-        "id": 139,
-        "type": "Condition",
-        "name": "Headaches"
-    },
-    {
-        "id": 140,
-        "type": "Condition",
-        "name": "Hearing loss"
-    },
-    {
-        "id": 141,
-        "type": "Condition",
-        "name": "Heart failure"
-    },
-    {
-        "id": 142,
-        "type": "Condition",
-        "name": "Hepatitis A"
-    },
-    {
-        "id": 143,
-        "type": "Condition",
-        "name": "Hepatitis B"
-    },
-    {
-        "id": 144,
-        "type": "Condition",
-        "name": "Hepatitis C"
-    },
-    {
-        "id": 145,
-        "type": "Condition",
-        "name": "Hiatus hernia"
-    },
-    {
-        "id": 146,
-        "type": "Condition",
-        "name": "High cholesterol"
-    },
-    {
-        "id": 147,
-        "type": "Condition",
-        "name": "HIV"
-    },
-    {
-        "id": 148,
-        "type": "Condition",
-        "name": "Hodgkin lymphoma"
-    },
-    {
-        "id": 149,
-        "type": "Condition",
-        "name": "Hodgkin lymphoma: Children"
-    },
-    {
-        "id": 150,
-        "type": "Condition",
-        "name": "Hodgkin lymphoma: Teenagers and young adults"
-    },
-    {
-        "id": 151,
-        "type": "Condition",
-        "name": "Huntington's disease"
-    },
-    {
-        "id": 152,
-        "type": "Condition",
-        "name": "Hyperglycaemia (high blood sugar)"
-    },
-    {
-        "id": 153,
-        "type": "Condition",
-        "name": "Hyperhidrosis"
-    },
-    {
-        "id": 154,
-        "type": "Condition",
-        "name": "Hypoglycaemia (low blood sugar)"
-    },
-    {
-        "id": 155,
-        "type": "Condition",
-        "name": "Idiopathic pulmonary fibrosis"
-    },
-    {
-        "id": 156,
-        "type": "Condition",
-        "name": "Impetigo"
-    },
-    {
-        "id": 157,
-        "type": "Condition",
-        "name": "Indigestion"
-    },
-    {
-        "id": 158,
-        "type": "Condition",
-        "name": "Ingrown toenail"
-    },
-    {
-        "id": 159,
-        "type": "Condition",
-        "name": "Inherited heart conditions"
-    },
-    {
-        "id": 160,
-        "type": "Condition",
-        "name": "Insomnia"
-    },
-    {
-        "id": 161,
-        "type": "Condition",
-        "name": "Iron deficiency anaemia"
-    },
-    {
-        "id": 162,
-        "type": "Condition",
-        "name": "Irritable bowel syndrome (IBS)"
-    },
-    {
-        "id": 163,
-        "type": "Condition",
-        "name": "Irritable hip"
-    },
-    {
-        "id": 164,
-        "type": "Condition",
-        "name": "Itching"
-    },
-    {
-        "id": 165,
-        "type": "Condition",
-        "name": "Itchy bottom"
-    },
-    {
-        "id": 166,
-        "type": "Condition",
-        "name": "Kaposi's sarcoma"
-    },
-    {
-        "id": 167,
-        "type": "Condition",
-        "name": "Kidney cancer"
-    },
-    {
-        "id": 168,
-        "type": "Condition",
-        "name": "Kidney infection"
-    },
-    {
-        "id": 169,
-        "type": "Condition",
-        "name": "Kidney stones"
-    },
-    {
-        "id": 170,
-        "type": "Condition",
-        "name": "Labyrinthitis"
-    },
-    {
-        "id": 171,
-        "type": "Condition",
-        "name": "Lactose intolerance"
-    },
-    {
-        "id": 172,
-        "type": "Condition",
-        "name": "Langerhans cell histiocytosis"
-    },
-    {
-        "id": 173,
-        "type": "Condition",
-        "name": "Laryngeal (larynx) cancer"
-    },
-    {
-        "id": 174,
-        "type": "Condition",
-        "name": "Laryngitis"
-    },
-    {
-        "id": 175,
-        "type": "Condition",
-        "name": "Leg cramps"
-    },
-    {
-        "id": 176,
-        "type": "Condition",
-        "name": "Lichen planus"
-    },
-    {
-        "id": 177,
-        "type": "Condition",
-        "name": "Liver cancer"
-    },
-    {
-        "id": 178,
-        "type": "Condition",
-        "name": "Liver disease"
-    },
-    {
-        "id": 179,
-        "type": "Condition",
-        "name": "Liver tumours"
-    },
-    {
-        "id": 180,
-        "type": "Condition",
-        "name": "Loss of libido"
-    },
-    {
-        "id": 181,
-        "type": "Condition",
-        "name": "Lung cancer"
-    },
-    {
-        "id": 182,
-        "type": "Condition",
-        "name": "Lupus"
-    },
-    {
-        "id": 183,
-        "type": "Condition",
-        "name": "Lyme disease"
-    },
-    {
-        "id": 184,
-        "type": "Condition",
-        "name": "Lymphoedema"
-    },
-    {
-        "id": 185,
-        "type": "Condition",
-        "name": "Lymphogranuloma venereum (LGV)"
-    },
-    {
-        "id": 186,
-        "type": "Condition",
-        "name": "Malaria"
-    },
-    {
-        "id": 187,
-        "type": "Condition",
-        "name": "Malignant brain tumour (cancerous)"
-    },
-    {
-        "id": 188,
-        "type": "Condition",
-        "name": "Malnutrition"
-    },
-    {
-        "id": 189,
-        "type": "Condition",
-        "name": "Measles"
-    },
-    {
-        "id": 190,
-        "type": "Condition",
-        "name": "Meningitis"
-    },
-    {
-        "id": 191,
-        "type": "Condition",
-        "name": "Menopause"
-    },
-    {
-        "id": 192,
-        "type": "Condition",
-        "name": "Mesothelioma"
-    },
-    {
-        "id": 193,
-        "type": "Condition",
-        "name": "Middle ear infection (otitis media)"
-    },
-    {
-        "id": 194,
-        "type": "Condition",
-        "name": "Migraine"
-    },
-    {
-        "id": 195,
-        "type": "Condition",
-        "name": "Miscarriage"
-    },
-    {
-        "id": 196,
-        "type": "Condition",
-        "name": "Motor neurone disease (MND)"
-    },
-    {
-        "id": 197,
-        "type": "Condition",
-        "name": "Mouth cancer"
-    },
-    {
-        "id": 198,
-        "type": "Condition",
-        "name": "Mouth ulcer"
-    },
-    {
-        "id": 199,
-        "type": "Condition",
-        "name": "Multiple myeloma"
-    },
-    {
-        "id": 200,
-        "type": "Condition",
-        "name": "Multiple sclerosis (MS)"
-    },
-    {
-        "id": 201,
-        "type": "Condition",
-        "name": "Mumps"
-    },
-    {
-        "id": 202,
-        "type": "Condition",
-        "name": "Meniere's disease"
-    },
-    {
-        "id": 203,
-        "type": "Condition",
-        "name": "Nasal and sinus cancer"
-    },
-    {
-        "id": 204,
-        "type": "Condition",
-        "name": "Nasopharyngeal cancer"
-    },
-    {
-        "id": 205,
-        "type": "Condition",
-        "name": "Neuroblastoma"
-    },
-    {
-        "id": 206,
-        "type": "Condition",
-        "name": "Neuroblastoma: Children"
-    },
-    {
-        "id": 207,
-        "type": "Condition",
-        "name": "Neuroendocrine tumours"
-    },
-    {
-        "id": 208,
-        "type": "Condition",
-        "name": "Non-alcoholic fatty liver disease (NAFLD)"
-    },
-    {
-        "id": 209,
-        "type": "Condition",
-        "name": "Non-Hodgkin lymphoma"
-    },
-    {
-        "id": 210,
-        "type": "Condition",
-        "name": "Non-Hodgkin lymphoma: Children"
-    },
-    {
-        "id": 211,
-        "type": "Condition",
-        "name": "Norovirus"
-    },
-    {
-        "id": 212,
-        "type": "Condition",
-        "name": "Nosebleed"
-    },
-    {
-        "id": 213,
-        "type": "Condition",
-        "name": "Obesity"
-    },
-    {
-        "id": 214,
-        "type": "Condition",
-        "name": "Obsessive compulsive disorder (OCD)"
-    },
-    {
-        "id": 215,
-        "type": "Condition",
-        "name": "Obstructive sleep apnoea"
-    },
-    {
-        "id": 216,
-        "type": "Condition",
-        "name": "Oesophageal cancer"
-    },
-    {
-        "id": 217,
-        "type": "Condition",
-        "name": "Oral thrush in adults"
-    },
-    {
-        "id": 218,
-        "type": "Condition",
-        "name": "Osteoarthritis"
-    },
-    {
-        "id": 219,
-        "type": "Condition",
-        "name": "Osteoporosis"
-    },
-    {
-        "id": 220,
-        "type": "Condition",
-        "name": "Osteosarcoma"
-    },
-    {
-        "id": 221,
-        "type": "Condition",
-        "name": "Otitis externa"
-    },
-    {
-        "id": 222,
-        "type": "Condition",
-        "name": "Ovarian cancer"
-    },
-    {
-        "id": 223,
-        "type": "Condition",
-        "name": "Ovarian cancer: Teenagers and young adults"
-    },
-    {
-        "id": 224,
-        "type": "Condition",
-        "name": "Ovarian cyst"
-    },
-    {
-        "id": 225,
-        "type": "Condition",
-        "name": "Overactive thyroid"
-    },
-    {
-        "id": 226,
-        "type": "Condition",
-        "name": "Paget's disease of the nipple"
-    },
-    {
-        "id": 227,
-        "type": "Condition",
-        "name": "Pancreatic cancer"
-    },
-    {
-        "id": 228,
-        "type": "Condition",
-        "name": "Panic disorder"
-    },
-    {
-        "id": 229,
-        "type": "Condition",
-        "name": "Parkinson's disease"
-    },
-    {
-        "id": 230,
-        "type": "Condition",
-        "name": "Pelvic inflammatory disease"
-    },
-    {
-        "id": 231,
-        "type": "Condition",
-        "name": "Pelvic organ prolapse"
-    },
-    {
-        "id": 232,
-        "type": "Condition",
-        "name": "Penile cancer"
-    },
-    {
-        "id": 233,
-        "type": "Condition",
-        "name": "Peripheral neuropathy"
-    },
-    {
-        "id": 234,
-        "type": "Condition",
-        "name": "Personality disorder"
-    },
-    {
-        "id": 235,
-        "type": "Condition",
-        "name": "Pleurisy"
-    },
-    {
-        "id": 236,
-        "type": "Condition",
-        "name": "Pneumonia"
-    },
-    {
-        "id": 237,
-        "type": "Condition",
-        "name": "Polymyalgia rheumatica"
-    },
-    {
-        "id": 238,
-        "type": "Condition",
-        "name": "Post-traumatic stress disorder (PTSD)"
-    },
-    {
-        "id": 239,
-        "type": "Condition",
-        "name": "Postnatal depression"
-    },
-    {
-        "id": 240,
-        "type": "Condition",
-        "name": "Pregnancy and baby"
-    },
-    {
-        "id": 241,
-        "type": "Condition",
-        "name": "Pressure ulcers"
-    },
-    {
-        "id": 242,
-        "type": "Condition",
-        "name": "Prostate cancer"
-    },
-    {
-        "id": 243,
-        "type": "Condition",
-        "name": "Psoriasis"
-    },
-    {
-        "id": 244,
-        "type": "Condition",
-        "name": "Psoriatic arthritis"
-    },
-    {
-        "id": 245,
-        "type": "Condition",
-        "name": "Psychosis"
-    },
-    {
-        "id": 246,
-        "type": "Condition",
-        "name": "Pubic lice"
-    },
-    {
-        "id": 247,
-        "type": "Condition",
-        "name": "Rare tumours"
-    },
-    {
-        "id": 248,
-        "type": "Condition",
-        "name": "Raynaud's phenomenon"
-    },
-    {
-        "id": 249,
-        "type": "Condition",
-        "name": "Reactive arthritis"
-    },
-    {
-        "id": 250,
-        "type": "Condition",
-        "name": "Restless legs syndrome"
-    },
-    {
-        "id": 251,
-        "type": "Condition",
-        "name": "Retinoblastoma"
-    },
-    {
-        "id": 252,
-        "type": "Condition",
-        "name": "Retinoblastoma: Children"
-    },
-    {
-        "id": 253,
-        "type": "Condition",
-        "name": "Rhabdomyosarcoma"
-    },
-    {
-        "id": 254,
-        "type": "Condition",
-        "name": "Rheumatoid arthritis"
-    },
-    {
-        "id": 255,
-        "type": "Condition",
-        "name": "Ringworm and other fungal infections"
-    },
-    {
-        "id": 256,
-        "type": "Condition",
-        "name": "Rosacea"
-    },
-    {
-        "id": 257,
-        "type": "Condition",
-        "name": "Scabies"
-    },
-    {
-        "id": 258,
-        "type": "Condition",
-        "name": "Scarlet fever"
-    },
-    {
-        "id": 259,
-        "type": "Condition",
-        "name": "Schizophrenia"
-    },
-    {
-        "id": 260,
-        "type": "Condition",
-        "name": "Scoliosis"
-    },
-    {
-        "id": 261,
-        "type": "Condition",
-        "name": "Septic shock"
-    },
-    {
-        "id": 262,
-        "type": "Condition",
-        "name": "Shingles"
-    },
-    {
-        "id": 263,
-        "type": "Condition",
-        "name": "Shortness of breath"
-    },
-    {
-        "id": 264,
-        "type": "Condition",
-        "name": "Sickle cell disease"
-    },
-    {
-        "id": 265,
-        "type": "Condition",
-        "name": "Sinusitis"
-    },
-    {
-        "id": 266,
-        "type": "Condition",
-        "name": "Sjogren's syndrome"
-    },
-    {
-        "id": 267,
-        "type": "Condition",
-        "name": "Skin cancer (melanoma)"
-    },
-    {
-        "id": 268,
-        "type": "Condition",
-        "name": "Skin cancer (non-melanoma)"
-    },
-    {
-        "id": 269,
-        "type": "Condition",
-        "name": "Slapped cheek syndrome"
-    },
-    {
-        "id": 270,
-        "type": "Condition",
-        "name": "Soft tissue sarcomas"
-    },
-    {
-        "id": 271,
-        "type": "Condition",
-        "name": "Soft tissue sarcomas: Teenagers and young adults"
-    },
-    {
-        "id": 272,
-        "type": "Condition",
-        "name": "Sore throat"
-    },
-    {
-        "id": 273,
-        "type": "Condition",
-        "name": "Spleen problems and spleen removal"
-    },
-    {
-        "id": 274,
-        "type": "Condition",
-        "name": "Stillbirth"
-    },
-    {
-        "id": 275,
-        "type": "Condition",
-        "name": "Stomach ache and abdominal pain"
-    },
-    {
-        "id": 276,
-        "type": "Condition",
-        "name": "Stomach cancer"
-    },
-    {
-        "id": 277,
-        "type": "Condition",
-        "name": "Stomach ulcer"
-    },
-    {
-        "id": 278,
-        "type": "Condition",
-        "name": "Stress, anxiety and low mood"
-    },
-    {
-        "id": 279,
-        "type": "Condition",
-        "name": "Stroke"
-    },
-    {
-        "id": 280,
-        "type": "Condition",
-        "name": "Sudden infant death syndrome (SIDS)"
-    },
-    {
-        "id": 281,
-        "type": "Condition",
-        "name": "Suicide"
-    },
-    {
-        "id": 282,
-        "type": "Condition",
-        "name": "Sunburn"
-    },
-    {
-        "id": 283,
-        "type": "Condition",
-        "name": "Swollen glands"
-    },
-    {
-        "id": 284,
-        "type": "Condition",
-        "name": "Syphilis"
-    },
-    {
-        "id": 285,
-        "type": "Condition",
-        "name": "Testicular cancer"
-    },
-    {
-        "id": 286,
-        "type": "Condition",
-        "name": "Testicular cancer: Teenagers and young adults"
-    },
-    {
-        "id": 287,
-        "type": "Condition",
-        "name": "Testicular lumps and swellings"
-    },
-    {
-        "id": 288,
-        "type": "Condition",
-        "name": "Thirst"
-    },
-    {
-        "id": 289,
-        "type": "Condition",
-        "name": "Threadworms"
-    },
-    {
-        "id": 290,
-        "type": "Condition",
-        "name": "Thrush"
-    },
-    {
-        "id": 291,
-        "type": "Condition",
-        "name": "Thrush in men"
-    },
-    {
-        "id": 292,
-        "type": "Condition",
-        "name": "Thyroid cancer"
-    },
-    {
-        "id": 293,
-        "type": "Condition",
-        "name": "Thyroid cancer: Teenagers and young adults"
-    },
-    {
-        "id": 294,
-        "type": "Condition",
-        "name": "Tinnitus"
-    },
-    {
-        "id": 295,
-        "type": "Condition",
-        "name": "Tonsillitis"
-    },
-    {
-        "id": 296,
-        "type": "Condition",
-        "name": "Tooth decay"
-    },
-    {
-        "id": 297,
-        "type": "Condition",
-        "name": "Toothache"
-    },
-    {
-        "id": 298,
-        "type": "Condition",
-        "name": "Transient ischaemic attack (TIA)"
-    },
-    {
-        "id": 299,
-        "type": "Condition",
-        "name": "Trigeminal neuralgia"
-    },
-    {
-        "id": 300,
-        "type": "Condition",
-        "name": "Tuberculosis (TB)"
-    },
-    {
-        "id": 301,
-        "type": "Condition",
-        "name": "Type 1 diabetes"
-    },
-    {
-        "id": 302,
-        "type": "Condition",
-        "name": "Type 2 diabetes"
-    },
-    {
-        "id": 303,
-        "type": "Condition",
-        "name": "Trichomonas infection"
-    },
-    {
-        "id": 304,
-        "type": "Condition",
-        "name": "Ulcerative colitis"
-    },
-    {
-        "id": 305,
-        "type": "Condition",
-        "name": "Underactive thyroid"
-    },
-    {
-        "id": 306,
-        "type": "Condition",
-        "name": "Urinary incontinence"
-    },
-    {
-        "id": 307,
-        "type": "Condition",
-        "name": "Urinary tract infection (UTI)"
-    },
-    {
-        "id": 308,
-        "type": "Condition",
-        "name": "Urinary tract infection (UTI) in children"
-    },
-    {
-        "id": 309,
-        "type": "Condition",
-        "name": "Urticaria (hives)"
-    },
-    {
-        "id": 310,
-        "type": "Condition",
-        "name": "Vaginal cancer"
-    },
-    {
-        "id": 311,
-        "type": "Condition",
-        "name": "Vaginal thrush"
-    },
-    {
-        "id": 312,
-        "type": "Condition",
-        "name": "Varicose eczema"
-    },
-    {
-        "id": 313,
-        "type": "Condition",
-        "name": "Venous leg ulcer"
-    },
-    {
-        "id": 314,
-        "type": "Condition",
-        "name": "Vertigo"
-    },
-    {
-        "id": 315,
-        "type": "Condition",
-        "name": "Vitamin B12 or folate deficiency anaemia"
-    },
-    {
-        "id": 316,
-        "type": "Condition",
-        "name": "Vomiting in adults"
-    },
-    {
-        "id": 317,
-        "type": "Condition",
-        "name": "Vulval cancer"
-    },
-    {
-        "id": 318,
-        "type": "Condition",
-        "name": "Warts and verrucas"
-    },
-    {
-        "id": 319,
-        "type": "Condition",
-        "name": "Whooping cough"
-    },
-    {
-        "id": 320,
-        "type": "Condition",
-        "name": "Wilms\u2019 tumour"
-    },
-    {
-        "id": 321,
-        "type": "Condition",
-        "name": "Womb (uterus) cancer"
-    },
-    {
-        "id": 322,
-        "type": "Condition",
-        "name": "Yellow fever"
-    }
-][
-    {
-        "id": 1,
-        "type": "Therapy",
-        "name": "abortive therapy"
-    },
-    {
-        "id": 2,
-        "type": "Therapy",
-        "name": "acupressure\u00a0(some scientific aspects, many prescientific)"
-    },
-    {
-        "id": 3,
-        "type": "Therapy",
-        "name": "acupuncture\u00a0(some scientific aspects, many prescientific)"
-    },
-    {
-        "id": 4,
-        "type": "Therapy",
-        "name": "adjunct therapy"
-    },
-    {
-        "id": 5,
-        "type": "Therapy",
-        "name": "adjunctive therapy"
-    },
-    {
-        "id": 6,
-        "type": "Therapy",
-        "name": "adjuvant therapy"
-    },
-    {
-        "id": 7,
-        "type": "Therapy",
-        "name": "alternative therapy"
-    },
-    {
-        "id": 8,
-        "type": "Therapy",
-        "name": "androgen replacement therapy"
-    },
-    {
-        "id": 9,
-        "type": "Therapy",
-        "name": "animal-assisted therapy"
-    },
-    {
-        "id": 10,
-        "type": "Therapy",
-        "name": "antibody therapy"
-    },
-    {
-        "id": 11,
-        "type": "Therapy",
-        "name": "antihormone therapy"
-    },
-    {
-        "id": 12,
-        "type": "Therapy",
-        "name": "antiserum\u00a0therapy"
-    },
-    {
-        "id": 13,
-        "type": "Therapy",
-        "name": "aquarium therapy"
-    },
-    {
-        "id": 14,
-        "type": "Therapy",
-        "name": "aquatic therapy"
-    },
-    {
-        "id": 15,
-        "type": "Therapy",
-        "name": "aromatherapy"
-    },
-    {
-        "id": 16,
-        "type": "Therapy",
-        "name": "art therapy"
-    },
-    {
-        "id": 17,
-        "type": "Therapy",
-        "name": "Auger therapy"
-    },
-    {
-        "id": 18,
-        "type": "Therapy",
-        "name": "aurotherapy"
-    },
-    {
-        "id": 19,
-        "type": "Therapy",
-        "name": "autism therapies"
-    },
-    {
-        "id": 20,
-        "type": "Therapy",
-        "name": "autologous immune enhancement therapy"
-    },
-    {
-        "id": 21,
-        "type": "Therapy",
-        "name": "balneotherapy"
-    },
-    {
-        "id": 22,
-        "type": "Therapy",
-        "name": "bioidentical hormone replacement therapy"
-    },
-    {
-        "id": 23,
-        "type": "Therapy",
-        "name": "biotherapy"
-    },
-    {
-        "id": 24,
-        "type": "Therapy",
-        "name": "blood irradiation therapy"
-    },
-    {
-        "id": 25,
-        "type": "Therapy",
-        "name": "brachytherapy"
-    },
-    {
-        "id": 26,
-        "type": "Therapy",
-        "name": "cardiac resynchronization therapy"
-    },
-    {
-        "id": 27,
-        "type": "Therapy",
-        "name": "cell therapy"
-    },
-    {
-        "id": 28,
-        "type": "Therapy",
-        "name": "cytotherapy"
-    },
-    {
-        "id": 29,
-        "type": "Therapy",
-        "name": "cell transfer therapy"
-    },
-    {
-        "id": 30,
-        "type": "Therapy",
-        "name": "chelation therapy"
-    },
-    {
-        "id": 31,
-        "type": "Therapy",
-        "name": "chemotherapy"
-    },
-    {
-        "id": 32,
-        "type": "Therapy",
-        "name": "Chinese food therapy"
-    },
-    {
-        "id": 33,
-        "type": "Therapy",
-        "name": "chiropractic\u00a0therapy"
-    },
-    {
-        "id": 34,
-        "type": "Therapy",
-        "name": "chronotherapy"
-    },
-    {
-        "id": 35,
-        "type": "Therapy",
-        "name": "chrysotherapy"
-    },
-    {
-        "id": 36,
-        "type": "Therapy",
-        "name": "climatotherapy"
-    },
-    {
-        "id": 37,
-        "type": "Therapy",
-        "name": "cobalt therapy"
-    },
-    {
-        "id": 38,
-        "type": "Therapy",
-        "name": "cold compression therapy"
-    },
-    {
-        "id": 39,
-        "type": "Therapy",
-        "name": "combination therapy"
-    },
-    {
-        "id": 40,
-        "type": "Therapy",
-        "name": "consolidation therapy"
-    },
-    {
-        "id": 41,
-        "type": "Therapy",
-        "name": "contrast bath therapy"
-    },
-    {
-        "id": 42,
-        "type": "Therapy",
-        "name": "counseling"
-    },
-    {
-        "id": 43,
-        "type": "Therapy",
-        "name": "craniosacral therapy"
-    },
-    {
-        "id": 44,
-        "type": "Therapy",
-        "name": "cryotherapy"
-    },
-    {
-        "id": 45,
-        "type": "Therapy",
-        "name": "crystal therapy"
-    },
-    {
-        "id": 46,
-        "type": "Therapy",
-        "name": "cupping therapy"
-    },
-    {
-        "id": 47,
-        "type": "Therapy",
-        "name": "curative therapy"
-    },
-    {
-        "id": 48,
-        "type": "Therapy",
-        "name": "cytoluminescent therapy"
-    },
-    {
-        "id": 49,
-        "type": "Therapy",
-        "name": "dark therapy"
-    },
-    {
-        "id": 50,
-        "type": "Therapy",
-        "name": "definitive therapy"
-    },
-    {
-        "id": 51,
-        "type": "Therapy",
-        "name": "destination therapy"
-    },
-    {
-        "id": 52,
-        "type": "Therapy",
-        "name": "diathermy"
-    },
-    {
-        "id": 53,
-        "type": "Therapy",
-        "name": "diesel therapy"
-    },
-    {
-        "id": 54,
-        "type": "Therapy",
-        "name": "dietary therapy"
-    },
-    {
-        "id": 55,
-        "type": "Therapy",
-        "name": "drug therapy"
-    },
-    {
-        "id": 56,
-        "type": "Therapy",
-        "name": "duct tape occlusion therapy"
-    },
-    {
-        "id": 57,
-        "type": "Therapy",
-        "name": "electrohomeopathy"
-    },
-    {
-        "id": 58,
-        "type": "Therapy",
-        "name": "electroconvulsive therapy"
-    },
-    {
-        "id": 59,
-        "type": "Therapy",
-        "name": "electromagnetic therapy"
-    },
-    {
-        "id": 60,
-        "type": "Therapy",
-        "name": "electron therapy"
-    },
-    {
-        "id": 61,
-        "type": "Therapy",
-        "name": "electrotherapy"
-    },
-    {
-        "id": 62,
-        "type": "Therapy",
-        "name": "empiric therapy"
-    },
-    {
-        "id": 63,
-        "type": "Therapy",
-        "name": "energy therapy"
-    },
-    {
-        "id": 64,
-        "type": "Therapy",
-        "name": "enzyme replacement therapy"
-    },
-    {
-        "id": 65,
-        "type": "Therapy",
-        "name": "epigenetic therapy"
-    },
-    {
-        "id": 66,
-        "type": "Therapy",
-        "name": "equine therapy"
-    },
-    {
-        "id": 67,
-        "type": "Therapy",
-        "name": "estrogen replacement therapy"
-    },
-    {
-        "id": 68,
-        "type": "Therapy",
-        "name": "exercise therapy"
-    },
-    {
-        "id": 69,
-        "type": "Therapy",
-        "name": "extracorporeal shockwave therapy"
-    },
-    {
-        "id": 70,
-        "type": "Therapy",
-        "name": "fast neutron therapy"
-    },
-    {
-        "id": 71,
-        "type": "Therapy",
-        "name": "Feldenkrais therapy"
-    },
-    {
-        "id": 72,
-        "type": "Therapy",
-        "name": "feminizing hormone therapy"
-    },
-    {
-        "id": 73,
-        "type": "Therapy",
-        "name": "fluoride therapy"
-    },
-    {
-        "id": 74,
-        "type": "Therapy",
-        "name": "gene therapy"
-    },
-    {
-        "id": 75,
-        "type": "Therapy",
-        "name": "gene therapy for color blindness"
-    },
-    {
-        "id": 76,
-        "type": "Therapy",
-        "name": "gene therapy for epilepsy"
-    },
-    {
-        "id": 77,
-        "type": "Therapy",
-        "name": "gene therapy for osteoarthritis"
-    },
-    {
-        "id": 78,
-        "type": "Therapy",
-        "name": "gene therapy in Parkinson's disease"
-    },
-    {
-        "id": 79,
-        "type": "Therapy",
-        "name": "gene therapy of the human retina"
-    },
-    {
-        "id": 80,
-        "type": "Therapy",
-        "name": "gold standard therapy"
-    },
-    {
-        "id": 81,
-        "type": "Therapy",
-        "name": "grape therapy"
-    },
-    {
-        "id": 82,
-        "type": "Therapy",
-        "name": "Greyhound therapy"
-    },
-    {
-        "id": 83,
-        "type": "Therapy",
-        "name": "halotherapy"
-    },
-    {
-        "id": 84,
-        "type": "Therapy",
-        "name": "heat therapy"
-    },
-    {
-        "id": 85,
-        "type": "Therapy",
-        "name": "helminthic therapy"
-    },
-    {
-        "id": 86,
-        "type": "Therapy",
-        "name": "herbal therapy"
-    },
-    {
-        "id": 87,
-        "type": "Therapy",
-        "name": "hippotherapy"
-    },
-    {
-        "id": 88,
-        "type": "Therapy",
-        "name": "hormone therapy"
-    },
-    {
-        "id": 89,
-        "type": "Therapy",
-        "name": "hormonal therapy"
-    },
-    {
-        "id": 90,
-        "type": "Therapy",
-        "name": "hormone replacement therapy"
-    },
-    {
-        "id": 91,
-        "type": "Therapy",
-        "name": "horticultural therapy"
-    },
-    {
-        "id": 92,
-        "type": "Therapy",
-        "name": "host modulatory therapy"
-    },
-    {
-        "id": 93,
-        "type": "Therapy",
-        "name": "hydrotherapy"
-    },
-    {
-        "id": 94,
-        "type": "Therapy",
-        "name": "hyperbaric oxygen therapy"
-    },
-    {
-        "id": 95,
-        "type": "Therapy",
-        "name": "hyperthermia therapy"
-    },
-    {
-        "id": 96,
-        "type": "Therapy",
-        "name": "hypothermia therapy for neonatal encephalopathy"
-    },
-    {
-        "id": 97,
-        "type": "Therapy",
-        "name": "ichthyotherapy"
-    },
-    {
-        "id": 98,
-        "type": "Therapy",
-        "name": "immunosuppressive therapy"
-    }
-]
+{
+    "Conditions": [
+        {
+            "id": 1,
+            "type": "Condition",
+            "name": "Abdominal aortic aneurysm"
+        },
+        {
+            "id": 2,
+            "type": "Condition",
+            "name": "Acne"
+        },
+        {
+            "id": 3,
+            "type": "Condition",
+            "name": "Acute cholecystitis"
+        },
+        {
+            "id": 4,
+            "type": "Condition",
+            "name": "Acute lymphoblastic leukaemia"
+        },
+        {
+            "id": 5,
+            "type": "Condition",
+            "name": "Acute lymphoblastic leukaemia: Children"
+        },
+        {
+            "id": 6,
+            "type": "Condition",
+            "name": "Acute lymphoblastic leukaemia: Teenagers and young adults"
+        },
+        {
+            "id": 7,
+            "type": "Condition",
+            "name": "Acute myeloid leukaemia"
+        },
+        {
+            "id": 8,
+            "type": "Condition",
+            "name": "Acute myeloid leukaemia: Children"
+        },
+        {
+            "id": 9,
+            "type": "Condition",
+            "name": "Acute myeloid leukaemia: Teenagers and young adults"
+        },
+        {
+            "id": 10,
+            "type": "Condition",
+            "name": "Acute pancreatitis"
+        },
+        {
+            "id": 11,
+            "type": "Condition",
+            "name": "Addison's disease"
+        },
+        {
+            "id": 12,
+            "type": "Condition",
+            "name": "Alcohol-related liver disease"
+        },
+        {
+            "id": 13,
+            "type": "Condition",
+            "name": "Allergic rhinitis"
+        },
+        {
+            "id": 14,
+            "type": "Condition",
+            "name": "Allergies"
+        },
+        {
+            "id": 15,
+            "type": "Condition",
+            "name": "Alzheimer's disease"
+        },
+        {
+            "id": 16,
+            "type": "Condition",
+            "name": "Anal cancer"
+        },
+        {
+            "id": 17,
+            "type": "Condition",
+            "name": "Anaphylaxis"
+        },
+        {
+            "id": 18,
+            "type": "Condition",
+            "name": "Angioedema"
+        },
+        {
+            "id": 19,
+            "type": "Condition",
+            "name": "Ankylosing spondylitis"
+        },
+        {
+            "id": 20,
+            "type": "Condition",
+            "name": "Anorexia nervosa"
+        },
+        {
+            "id": 21,
+            "type": "Condition",
+            "name": "Anxiety"
+        },
+        {
+            "id": 22,
+            "type": "Condition",
+            "name": "Anxiety disorders in children"
+        },
+        {
+            "id": 23,
+            "type": "Condition",
+            "name": "Appendicitis"
+        },
+        {
+            "id": 24,
+            "type": "Condition",
+            "name": "Arthritis"
+        },
+        {
+            "id": 25,
+            "type": "Condition",
+            "name": "Asbestosis"
+        },
+        {
+            "id": 26,
+            "type": "Condition",
+            "name": "Asthma"
+        },
+        {
+            "id": 27,
+            "type": "Condition",
+            "name": "Atopic eczema"
+        },
+        {
+            "id": 28,
+            "type": "Condition",
+            "name": "Attention deficit hyperactivity disorder (ADHD)"
+        },
+        {
+            "id": 29,
+            "type": "Condition",
+            "name": "Autistic spectrum disorder (ASD)"
+        },
+        {
+            "id": 30,
+            "type": "Condition",
+            "name": "Bacterial vaginosis"
+        },
+        {
+            "id": 31,
+            "type": "Condition",
+            "name": "Benign prostate enlargement"
+        },
+        {
+            "id": 32,
+            "type": "Condition",
+            "name": "Bile duct cancer (cholangiocarcinoma)"
+        },
+        {
+            "id": 33,
+            "type": "Condition",
+            "name": "Binge eating"
+        },
+        {
+            "id": 34,
+            "type": "Condition",
+            "name": "Bipolar disorder"
+        },
+        {
+            "id": 35,
+            "type": "Condition",
+            "name": "Bladder cancer"
+        },
+        {
+            "id": 36,
+            "type": "Condition",
+            "name": "Blood poisoning (sepsis)"
+        },
+        {
+            "id": 37,
+            "type": "Condition",
+            "name": "Bone cancer"
+        },
+        {
+            "id": 38,
+            "type": "Condition",
+            "name": "Bone cancer: Teenagers and young adults"
+        },
+        {
+            "id": 39,
+            "type": "Condition",
+            "name": "Bowel cancer"
+        },
+        {
+            "id": 40,
+            "type": "Condition",
+            "name": "Bowel incontinence"
+        },
+        {
+            "id": 41,
+            "type": "Condition",
+            "name": "Bowel polyps"
+        },
+        {
+            "id": 42,
+            "type": "Condition",
+            "name": "Brain stem death"
+        },
+        {
+            "id": 43,
+            "type": "Condition",
+            "name": "Brain tumours"
+        },
+        {
+            "id": 44,
+            "type": "Condition",
+            "name": "Brain tumours: Children"
+        },
+        {
+            "id": 45,
+            "type": "Condition",
+            "name": "Brain tumours: Teenagers and young adults"
+        },
+        {
+            "id": 46,
+            "type": "Condition",
+            "name": "Breast cancer (female)"
+        },
+        {
+            "id": 47,
+            "type": "Condition",
+            "name": "Breast cancer (male)"
+        },
+        {
+            "id": 48,
+            "type": "Condition",
+            "name": "Bronchiectasis"
+        },
+        {
+            "id": 49,
+            "type": "Condition",
+            "name": "Bronchitis"
+        },
+        {
+            "id": 50,
+            "type": "Condition",
+            "name": "Bulimia"
+        },
+        {
+            "id": 51,
+            "type": "Condition",
+            "name": "Bunion"
+        },
+        {
+            "id": 52,
+            "type": "Condition",
+            "name": "Carcinoid syndrome and carcinoid tumours"
+        },
+        {
+            "id": 53,
+            "type": "Condition",
+            "name": "Catarrh"
+        },
+        {
+            "id": 54,
+            "type": "Condition",
+            "name": "Cellulitis"
+        },
+        {
+            "id": 55,
+            "type": "Condition",
+            "name": "Cervical cancer"
+        },
+        {
+            "id": 56,
+            "type": "Condition",
+            "name": "Chest infection"
+        },
+        {
+            "id": 57,
+            "type": "Condition",
+            "name": "Chest pain"
+        },
+        {
+            "id": 58,
+            "type": "Condition",
+            "name": "Chickenpox"
+        },
+        {
+            "id": 59,
+            "type": "Condition",
+            "name": "Chilblains"
+        },
+        {
+            "id": 60,
+            "type": "Condition",
+            "name": "Chlamydia"
+        },
+        {
+            "id": 61,
+            "type": "Condition",
+            "name": "Chronic fatigue syndrome"
+        },
+        {
+            "id": 62,
+            "type": "Condition",
+            "name": "Chronic kidney disease"
+        },
+        {
+            "id": 63,
+            "type": "Condition",
+            "name": "Chronic lymphocytic leukaemia"
+        },
+        {
+            "id": 64,
+            "type": "Condition",
+            "name": "Chronic myeloid leukaemia"
+        },
+        {
+            "id": 65,
+            "type": "Condition",
+            "name": "Chronic obstructive pulmonary disease"
+        },
+        {
+            "id": 66,
+            "type": "Condition",
+            "name": "Chronic pancreatitis"
+        },
+        {
+            "id": 67,
+            "type": "Condition",
+            "name": "Cirrhosis"
+        },
+        {
+            "id": 68,
+            "type": "Condition",
+            "name": "Clostridium difficile"
+        },
+        {
+            "id": 69,
+            "type": "Condition",
+            "name": "Coeliac disease"
+        },
+        {
+            "id": 70,
+            "type": "Condition",
+            "name": "Cold sore"
+        },
+        {
+            "id": 71,
+            "type": "Condition",
+            "name": "Coma"
+        },
+        {
+            "id": 72,
+            "type": "Condition",
+            "name": "Common cold"
+        },
+        {
+            "id": 73,
+            "type": "Condition",
+            "name": "Common heart conditions"
+        },
+        {
+            "id": 74,
+            "type": "Condition",
+            "name": "Congenital heart disease"
+        },
+        {
+            "id": 75,
+            "type": "Condition",
+            "name": "Conjunctivitis"
+        },
+        {
+            "id": 76,
+            "type": "Condition",
+            "name": "Constipation"
+        },
+        {
+            "id": 77,
+            "type": "Condition",
+            "name": "Coronavirus (COVID-19)"
+        },
+        {
+            "id": 78,
+            "type": "Condition",
+            "name": "Cough"
+        },
+        {
+            "id": 79,
+            "type": "Condition",
+            "name": "Crohn's disease"
+        },
+        {
+            "id": 80,
+            "type": "Condition",
+            "name": "Croup"
+        },
+        {
+            "id": 81,
+            "type": "Condition",
+            "name": "Cystic fibrosis"
+        },
+        {
+            "id": 82,
+            "type": "Condition",
+            "name": "Cystitis"
+        },
+        {
+            "id": 83,
+            "type": "Condition",
+            "name": "Deafblindness"
+        },
+        {
+            "id": 84,
+            "type": "Condition",
+            "name": "Deep vein thrombosis"
+        },
+        {
+            "id": 85,
+            "type": "Condition",
+            "name": "Dehydration"
+        },
+        {
+            "id": 86,
+            "type": "Condition",
+            "name": "Dementia"
+        },
+        {
+            "id": 87,
+            "type": "Condition",
+            "name": "Dementia with Lewy bodies"
+        },
+        {
+            "id": 88,
+            "type": "Condition",
+            "name": "Dental abscess"
+        },
+        {
+            "id": 89,
+            "type": "Condition",
+            "name": "Depression"
+        },
+        {
+            "id": 90,
+            "type": "Condition",
+            "name": "Dermatitis herpetiformis"
+        },
+        {
+            "id": 91,
+            "type": "Condition",
+            "name": "Diabetes"
+        },
+        {
+            "id": 92,
+            "type": "Condition",
+            "name": "Diarrhoea"
+        },
+        {
+            "id": 93,
+            "type": "Condition",
+            "name": "Discoid eczema"
+        },
+        {
+            "id": 94,
+            "type": "Condition",
+            "name": "Diverticular disease and diverticulitis"
+        },
+        {
+            "id": 95,
+            "type": "Condition",
+            "name": "Dizziness (Lightheadedness)"
+        },
+        {
+            "id": 96,
+            "type": "Condition",
+            "name": "Down's syndrome"
+        },
+        {
+            "id": 97,
+            "type": "Condition",
+            "name": "Dry mouth"
+        },
+        {
+            "id": 98,
+            "type": "Condition",
+            "name": "Dysphagia (swallowing problems)"
+        },
+        {
+            "id": 99,
+            "type": "Condition",
+            "name": "Dystonia"
+        },
+        {
+            "id": 100,
+            "type": "Condition",
+            "name": "Earache"
+        },
+        {
+            "id": 101,
+            "type": "Condition",
+            "name": "Earwax build-up"
+        },
+        {
+            "id": 102,
+            "type": "Condition",
+            "name": "Ebola virus disease"
+        },
+        {
+            "id": 103,
+            "type": "Condition",
+            "name": "Ectopic pregnancy"
+        },
+        {
+            "id": 104,
+            "type": "Condition",
+            "name": "Endometriosis"
+        },
+        {
+            "id": 105,
+            "type": "Condition",
+            "name": "Epilepsy"
+        },
+        {
+            "id": 106,
+            "type": "Condition",
+            "name": "Erectile dysfunction (impotence)"
+        },
+        {
+            "id": 107,
+            "type": "Condition",
+            "name": "Escherichia coli (E. coli) O157"
+        },
+        {
+            "id": 108,
+            "type": "Condition",
+            "name": "Ewing sarcoma"
+        },
+        {
+            "id": 109,
+            "type": "Condition",
+            "name": "Ewing sarcoma: Children"
+        },
+        {
+            "id": 110,
+            "type": "Condition",
+            "name": "Eye cancer"
+        },
+        {
+            "id": 111,
+            "type": "Condition",
+            "name": "Febrile seizures"
+        },
+        {
+            "id": 112,
+            "type": "Condition",
+            "name": "Fever in adults"
+        },
+        {
+            "id": 113,
+            "type": "Condition",
+            "name": "Fever in children"
+        },
+        {
+            "id": 114,
+            "type": "Condition",
+            "name": "Fibroids"
+        },
+        {
+            "id": 115,
+            "type": "Condition",
+            "name": "Fibromyalgia"
+        },
+        {
+            "id": 116,
+            "type": "Condition",
+            "name": "Flatulence"
+        },
+        {
+            "id": 117,
+            "type": "Condition",
+            "name": "Flu"
+        },
+        {
+            "id": 118,
+            "type": "Condition",
+            "name": "Foetal alcohol syndrome"
+        },
+        {
+            "id": 119,
+            "type": "Condition",
+            "name": "Food poisoning"
+        },
+        {
+            "id": 120,
+            "type": "Condition",
+            "name": "Fungal nail infection"
+        },
+        {
+            "id": 121,
+            "type": "Condition",
+            "name": "Gallbladder cancer"
+        },
+        {
+            "id": 122,
+            "type": "Condition",
+            "name": "Gallstones"
+        },
+        {
+            "id": 123,
+            "type": "Condition",
+            "name": "Ganglion cyst"
+        },
+        {
+            "id": 124,
+            "type": "Condition",
+            "name": "Gastroenteritis"
+        },
+        {
+            "id": 125,
+            "type": "Condition",
+            "name": "Gastro-oesophageal reflux disease (GORD)"
+        },
+        {
+            "id": 126,
+            "type": "Condition",
+            "name": "Genital herpes"
+        },
+        {
+            "id": 127,
+            "type": "Condition",
+            "name": "Genital warts"
+        },
+        {
+            "id": 128,
+            "type": "Condition",
+            "name": "Germ cell tumours"
+        },
+        {
+            "id": 129,
+            "type": "Condition",
+            "name": "Glandular fever"
+        },
+        {
+            "id": 130,
+            "type": "Condition",
+            "name": "Gonorrhoea"
+        },
+        {
+            "id": 131,
+            "type": "Condition",
+            "name": "Gout"
+        },
+        {
+            "id": 132,
+            "type": "Condition",
+            "name": "Gum disease"
+        },
+        {
+            "id": 133,
+            "type": "Condition",
+            "name": "Haemorrhoids (piles)"
+        },
+        {
+            "id": 134,
+            "type": "Condition",
+            "name": "Hairy cell leukaemia"
+        },
+        {
+            "id": 135,
+            "type": "Condition",
+            "name": "Hand, foot and mouth disease"
+        },
+        {
+            "id": 136,
+            "type": "Condition",
+            "name": "Hay fever"
+        },
+        {
+            "id": 137,
+            "type": "Condition",
+            "name": "Head and neck cancer"
+        },
+        {
+            "id": 138,
+            "type": "Condition",
+            "name": "Head lice and nits"
+        },
+        {
+            "id": 139,
+            "type": "Condition",
+            "name": "Headaches"
+        },
+        {
+            "id": 140,
+            "type": "Condition",
+            "name": "Hearing loss"
+        },
+        {
+            "id": 141,
+            "type": "Condition",
+            "name": "Heart failure"
+        },
+        {
+            "id": 142,
+            "type": "Condition",
+            "name": "Hepatitis A"
+        },
+        {
+            "id": 143,
+            "type": "Condition",
+            "name": "Hepatitis B"
+        },
+        {
+            "id": 144,
+            "type": "Condition",
+            "name": "Hepatitis C"
+        },
+        {
+            "id": 145,
+            "type": "Condition",
+            "name": "Hiatus hernia"
+        },
+        {
+            "id": 146,
+            "type": "Condition",
+            "name": "High cholesterol"
+        },
+        {
+            "id": 147,
+            "type": "Condition",
+            "name": "HIV"
+        },
+        {
+            "id": 148,
+            "type": "Condition",
+            "name": "Hodgkin lymphoma"
+        },
+        {
+            "id": 149,
+            "type": "Condition",
+            "name": "Hodgkin lymphoma: Children"
+        },
+        {
+            "id": 150,
+            "type": "Condition",
+            "name": "Hodgkin lymphoma: Teenagers and young adults"
+        },
+        {
+            "id": 151,
+            "type": "Condition",
+            "name": "Huntington's disease"
+        },
+        {
+            "id": 152,
+            "type": "Condition",
+            "name": "Hyperglycaemia (high blood sugar)"
+        },
+        {
+            "id": 153,
+            "type": "Condition",
+            "name": "Hyperhidrosis"
+        },
+        {
+            "id": 154,
+            "type": "Condition",
+            "name": "Hypoglycaemia (low blood sugar)"
+        },
+        {
+            "id": 155,
+            "type": "Condition",
+            "name": "Idiopathic pulmonary fibrosis"
+        },
+        {
+            "id": 156,
+            "type": "Condition",
+            "name": "Impetigo"
+        },
+        {
+            "id": 157,
+            "type": "Condition",
+            "name": "Indigestion"
+        },
+        {
+            "id": 158,
+            "type": "Condition",
+            "name": "Ingrown toenail"
+        },
+        {
+            "id": 159,
+            "type": "Condition",
+            "name": "Inherited heart conditions"
+        },
+        {
+            "id": 160,
+            "type": "Condition",
+            "name": "Insomnia"
+        },
+        {
+            "id": 161,
+            "type": "Condition",
+            "name": "Iron deficiency anaemia"
+        },
+        {
+            "id": 162,
+            "type": "Condition",
+            "name": "Irritable bowel syndrome (IBS)"
+        },
+        {
+            "id": 163,
+            "type": "Condition",
+            "name": "Irritable hip"
+        },
+        {
+            "id": 164,
+            "type": "Condition",
+            "name": "Itching"
+        },
+        {
+            "id": 165,
+            "type": "Condition",
+            "name": "Itchy bottom"
+        },
+        {
+            "id": 166,
+            "type": "Condition",
+            "name": "Kaposi's sarcoma"
+        },
+        {
+            "id": 167,
+            "type": "Condition",
+            "name": "Kidney cancer"
+        },
+        {
+            "id": 168,
+            "type": "Condition",
+            "name": "Kidney infection"
+        },
+        {
+            "id": 169,
+            "type": "Condition",
+            "name": "Kidney stones"
+        },
+        {
+            "id": 170,
+            "type": "Condition",
+            "name": "Labyrinthitis"
+        },
+        {
+            "id": 171,
+            "type": "Condition",
+            "name": "Lactose intolerance"
+        },
+        {
+            "id": 172,
+            "type": "Condition",
+            "name": "Langerhans cell histiocytosis"
+        },
+        {
+            "id": 173,
+            "type": "Condition",
+            "name": "Laryngeal (larynx) cancer"
+        },
+        {
+            "id": 174,
+            "type": "Condition",
+            "name": "Laryngitis"
+        },
+        {
+            "id": 175,
+            "type": "Condition",
+            "name": "Leg cramps"
+        },
+        {
+            "id": 176,
+            "type": "Condition",
+            "name": "Lichen planus"
+        },
+        {
+            "id": 177,
+            "type": "Condition",
+            "name": "Liver cancer"
+        },
+        {
+            "id": 178,
+            "type": "Condition",
+            "name": "Liver disease"
+        },
+        {
+            "id": 179,
+            "type": "Condition",
+            "name": "Liver tumours"
+        },
+        {
+            "id": 180,
+            "type": "Condition",
+            "name": "Loss of libido"
+        },
+        {
+            "id": 181,
+            "type": "Condition",
+            "name": "Lung cancer"
+        },
+        {
+            "id": 182,
+            "type": "Condition",
+            "name": "Lupus"
+        },
+        {
+            "id": 183,
+            "type": "Condition",
+            "name": "Lyme disease"
+        },
+        {
+            "id": 184,
+            "type": "Condition",
+            "name": "Lymphoedema"
+        },
+        {
+            "id": 185,
+            "type": "Condition",
+            "name": "Lymphogranuloma venereum (LGV)"
+        },
+        {
+            "id": 186,
+            "type": "Condition",
+            "name": "Malaria"
+        },
+        {
+            "id": 187,
+            "type": "Condition",
+            "name": "Malignant brain tumour (cancerous)"
+        },
+        {
+            "id": 188,
+            "type": "Condition",
+            "name": "Malnutrition"
+        },
+        {
+            "id": 189,
+            "type": "Condition",
+            "name": "Measles"
+        },
+        {
+            "id": 190,
+            "type": "Condition",
+            "name": "Meningitis"
+        },
+        {
+            "id": 191,
+            "type": "Condition",
+            "name": "Menopause"
+        },
+        {
+            "id": 192,
+            "type": "Condition",
+            "name": "Mesothelioma"
+        },
+        {
+            "id": 193,
+            "type": "Condition",
+            "name": "Middle ear infection (otitis media)"
+        },
+        {
+            "id": 194,
+            "type": "Condition",
+            "name": "Migraine"
+        },
+        {
+            "id": 195,
+            "type": "Condition",
+            "name": "Miscarriage"
+        },
+        {
+            "id": 196,
+            "type": "Condition",
+            "name": "Motor neurone disease (MND)"
+        },
+        {
+            "id": 197,
+            "type": "Condition",
+            "name": "Mouth cancer"
+        },
+        {
+            "id": 198,
+            "type": "Condition",
+            "name": "Mouth ulcer"
+        },
+        {
+            "id": 199,
+            "type": "Condition",
+            "name": "Multiple myeloma"
+        },
+        {
+            "id": 200,
+            "type": "Condition",
+            "name": "Multiple sclerosis (MS)"
+        },
+        {
+            "id": 201,
+            "type": "Condition",
+            "name": "Mumps"
+        },
+        {
+            "id": 202,
+            "type": "Condition",
+            "name": "Meniere's disease"
+        },
+        {
+            "id": 203,
+            "type": "Condition",
+            "name": "Nasal and sinus cancer"
+        },
+        {
+            "id": 204,
+            "type": "Condition",
+            "name": "Nasopharyngeal cancer"
+        },
+        {
+            "id": 205,
+            "type": "Condition",
+            "name": "Neuroblastoma"
+        },
+        {
+            "id": 206,
+            "type": "Condition",
+            "name": "Neuroblastoma: Children"
+        },
+        {
+            "id": 207,
+            "type": "Condition",
+            "name": "Neuroendocrine tumours"
+        },
+        {
+            "id": 208,
+            "type": "Condition",
+            "name": "Non-alcoholic fatty liver disease (NAFLD)"
+        },
+        {
+            "id": 209,
+            "type": "Condition",
+            "name": "Non-Hodgkin lymphoma"
+        },
+        {
+            "id": 210,
+            "type": "Condition",
+            "name": "Non-Hodgkin lymphoma: Children"
+        },
+        {
+            "id": 211,
+            "type": "Condition",
+            "name": "Norovirus"
+        },
+        {
+            "id": 212,
+            "type": "Condition",
+            "name": "Nosebleed"
+        },
+        {
+            "id": 213,
+            "type": "Condition",
+            "name": "Obesity"
+        },
+        {
+            "id": 214,
+            "type": "Condition",
+            "name": "Obsessive compulsive disorder (OCD)"
+        },
+        {
+            "id": 215,
+            "type": "Condition",
+            "name": "Obstructive sleep apnoea"
+        },
+        {
+            "id": 216,
+            "type": "Condition",
+            "name": "Oesophageal cancer"
+        },
+        {
+            "id": 217,
+            "type": "Condition",
+            "name": "Oral thrush in adults"
+        },
+        {
+            "id": 218,
+            "type": "Condition",
+            "name": "Osteoarthritis"
+        },
+        {
+            "id": 219,
+            "type": "Condition",
+            "name": "Osteoporosis"
+        },
+        {
+            "id": 220,
+            "type": "Condition",
+            "name": "Osteosarcoma"
+        },
+        {
+            "id": 221,
+            "type": "Condition",
+            "name": "Otitis externa"
+        },
+        {
+            "id": 222,
+            "type": "Condition",
+            "name": "Ovarian cancer"
+        },
+        {
+            "id": 223,
+            "type": "Condition",
+            "name": "Ovarian cancer: Teenagers and young adults"
+        },
+        {
+            "id": 224,
+            "type": "Condition",
+            "name": "Ovarian cyst"
+        },
+        {
+            "id": 225,
+            "type": "Condition",
+            "name": "Overactive thyroid"
+        },
+        {
+            "id": 226,
+            "type": "Condition",
+            "name": "Paget's disease of the nipple"
+        },
+        {
+            "id": 227,
+            "type": "Condition",
+            "name": "Pancreatic cancer"
+        },
+        {
+            "id": 228,
+            "type": "Condition",
+            "name": "Panic disorder"
+        },
+        {
+            "id": 229,
+            "type": "Condition",
+            "name": "Parkinson's disease"
+        },
+        {
+            "id": 230,
+            "type": "Condition",
+            "name": "Pelvic inflammatory disease"
+        },
+        {
+            "id": 231,
+            "type": "Condition",
+            "name": "Pelvic organ prolapse"
+        },
+        {
+            "id": 232,
+            "type": "Condition",
+            "name": "Penile cancer"
+        },
+        {
+            "id": 233,
+            "type": "Condition",
+            "name": "Peripheral neuropathy"
+        },
+        {
+            "id": 234,
+            "type": "Condition",
+            "name": "Personality disorder"
+        },
+        {
+            "id": 235,
+            "type": "Condition",
+            "name": "Pleurisy"
+        },
+        {
+            "id": 236,
+            "type": "Condition",
+            "name": "Pneumonia"
+        },
+        {
+            "id": 237,
+            "type": "Condition",
+            "name": "Polymyalgia rheumatica"
+        },
+        {
+            "id": 238,
+            "type": "Condition",
+            "name": "Post-traumatic stress disorder (PTSD)"
+        },
+        {
+            "id": 239,
+            "type": "Condition",
+            "name": "Postnatal depression"
+        },
+        {
+            "id": 240,
+            "type": "Condition",
+            "name": "Pregnancy and baby"
+        },
+        {
+            "id": 241,
+            "type": "Condition",
+            "name": "Pressure ulcers"
+        },
+        {
+            "id": 242,
+            "type": "Condition",
+            "name": "Prostate cancer"
+        },
+        {
+            "id": 243,
+            "type": "Condition",
+            "name": "Psoriasis"
+        },
+        {
+            "id": 244,
+            "type": "Condition",
+            "name": "Psoriatic arthritis"
+        },
+        {
+            "id": 245,
+            "type": "Condition",
+            "name": "Psychosis"
+        },
+        {
+            "id": 246,
+            "type": "Condition",
+            "name": "Pubic lice"
+        },
+        {
+            "id": 247,
+            "type": "Condition",
+            "name": "Rare tumours"
+        },
+        {
+            "id": 248,
+            "type": "Condition",
+            "name": "Raynaud's phenomenon"
+        },
+        {
+            "id": 249,
+            "type": "Condition",
+            "name": "Reactive arthritis"
+        },
+        {
+            "id": 250,
+            "type": "Condition",
+            "name": "Restless legs syndrome"
+        },
+        {
+            "id": 251,
+            "type": "Condition",
+            "name": "Retinoblastoma"
+        },
+        {
+            "id": 252,
+            "type": "Condition",
+            "name": "Retinoblastoma: Children"
+        },
+        {
+            "id": 253,
+            "type": "Condition",
+            "name": "Rhabdomyosarcoma"
+        },
+        {
+            "id": 254,
+            "type": "Condition",
+            "name": "Rheumatoid arthritis"
+        },
+        {
+            "id": 255,
+            "type": "Condition",
+            "name": "Ringworm and other fungal infections"
+        },
+        {
+            "id": 256,
+            "type": "Condition",
+            "name": "Rosacea"
+        },
+        {
+            "id": 257,
+            "type": "Condition",
+            "name": "Scabies"
+        },
+        {
+            "id": 258,
+            "type": "Condition",
+            "name": "Scarlet fever"
+        },
+        {
+            "id": 259,
+            "type": "Condition",
+            "name": "Schizophrenia"
+        },
+        {
+            "id": 260,
+            "type": "Condition",
+            "name": "Scoliosis"
+        },
+        {
+            "id": 261,
+            "type": "Condition",
+            "name": "Septic shock"
+        },
+        {
+            "id": 262,
+            "type": "Condition",
+            "name": "Shingles"
+        },
+        {
+            "id": 263,
+            "type": "Condition",
+            "name": "Shortness of breath"
+        },
+        {
+            "id": 264,
+            "type": "Condition",
+            "name": "Sickle cell disease"
+        },
+        {
+            "id": 265,
+            "type": "Condition",
+            "name": "Sinusitis"
+        },
+        {
+            "id": 266,
+            "type": "Condition",
+            "name": "Sjogren's syndrome"
+        },
+        {
+            "id": 267,
+            "type": "Condition",
+            "name": "Skin cancer (melanoma)"
+        },
+        {
+            "id": 268,
+            "type": "Condition",
+            "name": "Skin cancer (non-melanoma)"
+        },
+        {
+            "id": 269,
+            "type": "Condition",
+            "name": "Slapped cheek syndrome"
+        },
+        {
+            "id": 270,
+            "type": "Condition",
+            "name": "Soft tissue sarcomas"
+        },
+        {
+            "id": 271,
+            "type": "Condition",
+            "name": "Soft tissue sarcomas: Teenagers and young adults"
+        },
+        {
+            "id": 272,
+            "type": "Condition",
+            "name": "Sore throat"
+        },
+        {
+            "id": 273,
+            "type": "Condition",
+            "name": "Spleen problems and spleen removal"
+        },
+        {
+            "id": 274,
+            "type": "Condition",
+            "name": "Stillbirth"
+        },
+        {
+            "id": 275,
+            "type": "Condition",
+            "name": "Stomach ache and abdominal pain"
+        },
+        {
+            "id": 276,
+            "type": "Condition",
+            "name": "Stomach cancer"
+        },
+        {
+            "id": 277,
+            "type": "Condition",
+            "name": "Stomach ulcer"
+        },
+        {
+            "id": 278,
+            "type": "Condition",
+            "name": "Stress, anxiety and low mood"
+        },
+        {
+            "id": 279,
+            "type": "Condition",
+            "name": "Stroke"
+        },
+        {
+            "id": 280,
+            "type": "Condition",
+            "name": "Sudden infant death syndrome (SIDS)"
+        },
+        {
+            "id": 281,
+            "type": "Condition",
+            "name": "Suicide"
+        },
+        {
+            "id": 282,
+            "type": "Condition",
+            "name": "Sunburn"
+        },
+        {
+            "id": 283,
+            "type": "Condition",
+            "name": "Swollen glands"
+        },
+        {
+            "id": 284,
+            "type": "Condition",
+            "name": "Syphilis"
+        },
+        {
+            "id": 285,
+            "type": "Condition",
+            "name": "Testicular cancer"
+        },
+        {
+            "id": 286,
+            "type": "Condition",
+            "name": "Testicular cancer: Teenagers and young adults"
+        },
+        {
+            "id": 287,
+            "type": "Condition",
+            "name": "Testicular lumps and swellings"
+        },
+        {
+            "id": 288,
+            "type": "Condition",
+            "name": "Thirst"
+        },
+        {
+            "id": 289,
+            "type": "Condition",
+            "name": "Threadworms"
+        },
+        {
+            "id": 290,
+            "type": "Condition",
+            "name": "Thrush"
+        },
+        {
+            "id": 291,
+            "type": "Condition",
+            "name": "Thrush in men"
+        },
+        {
+            "id": 292,
+            "type": "Condition",
+            "name": "Thyroid cancer"
+        },
+        {
+            "id": 293,
+            "type": "Condition",
+            "name": "Thyroid cancer: Teenagers and young adults"
+        },
+        {
+            "id": 294,
+            "type": "Condition",
+            "name": "Tinnitus"
+        },
+        {
+            "id": 295,
+            "type": "Condition",
+            "name": "Tonsillitis"
+        },
+        {
+            "id": 296,
+            "type": "Condition",
+            "name": "Tooth decay"
+        },
+        {
+            "id": 297,
+            "type": "Condition",
+            "name": "Toothache"
+        },
+        {
+            "id": 298,
+            "type": "Condition",
+            "name": "Transient ischaemic attack (TIA)"
+        },
+        {
+            "id": 299,
+            "type": "Condition",
+            "name": "Trigeminal neuralgia"
+        },
+        {
+            "id": 300,
+            "type": "Condition",
+            "name": "Tuberculosis (TB)"
+        },
+        {
+            "id": 301,
+            "type": "Condition",
+            "name": "Type 1 diabetes"
+        },
+        {
+            "id": 302,
+            "type": "Condition",
+            "name": "Type 2 diabetes"
+        },
+        {
+            "id": 303,
+            "type": "Condition",
+            "name": "Trichomonas infection"
+        },
+        {
+            "id": 304,
+            "type": "Condition",
+            "name": "Ulcerative colitis"
+        },
+        {
+            "id": 305,
+            "type": "Condition",
+            "name": "Underactive thyroid"
+        },
+        {
+            "id": 306,
+            "type": "Condition",
+            "name": "Urinary incontinence"
+        },
+        {
+            "id": 307,
+            "type": "Condition",
+            "name": "Urinary tract infection (UTI)"
+        },
+        {
+            "id": 308,
+            "type": "Condition",
+            "name": "Urinary tract infection (UTI) in children"
+        },
+        {
+            "id": 309,
+            "type": "Condition",
+            "name": "Urticaria (hives)"
+        },
+        {
+            "id": 310,
+            "type": "Condition",
+            "name": "Vaginal cancer"
+        },
+        {
+            "id": 311,
+            "type": "Condition",
+            "name": "Vaginal thrush"
+        },
+        {
+            "id": 312,
+            "type": "Condition",
+            "name": "Varicose eczema"
+        },
+        {
+            "id": 313,
+            "type": "Condition",
+            "name": "Venous leg ulcer"
+        },
+        {
+            "id": 314,
+            "type": "Condition",
+            "name": "Vertigo"
+        },
+        {
+            "id": 315,
+            "type": "Condition",
+            "name": "Vitamin B12 or folate deficiency anaemia"
+        },
+        {
+            "id": 316,
+            "type": "Condition",
+            "name": "Vomiting in adults"
+        },
+        {
+            "id": 317,
+            "type": "Condition",
+            "name": "Vulval cancer"
+        },
+        {
+            "id": 318,
+            "type": "Condition",
+            "name": "Warts and verrucas"
+        },
+        {
+            "id": 319,
+            "type": "Condition",
+            "name": "Whooping cough"
+        },
+        {
+            "id": 320,
+            "type": "Condition",
+            "name": "Wilms\u2019 tumour"
+        },
+        {
+            "id": 321,
+            "type": "Condition",
+            "name": "Womb (uterus) cancer"
+        },
+        {
+            "id": 322,
+            "type": "Condition",
+            "name": "Yellow fever"
+        }
+    ],
+    "Therapies": [
+        {
+            "id": 1,
+            "type": "Therapy",
+            "name": "abortive therapy"
+        },
+        {
+            "id": 2,
+            "type": "Therapy",
+            "name": "acupressure\u00a0(some scientific aspects, many prescientific)"
+        },
+        {
+            "id": 3,
+            "type": "Therapy",
+            "name": "acupuncture\u00a0(some scientific aspects, many prescientific)"
+        },
+        {
+            "id": 4,
+            "type": "Therapy",
+            "name": "adjunct therapy"
+        },
+        {
+            "id": 5,
+            "type": "Therapy",
+            "name": "adjunctive therapy"
+        },
+        {
+            "id": 6,
+            "type": "Therapy",
+            "name": "adjuvant therapy"
+        },
+        {
+            "id": 7,
+            "type": "Therapy",
+            "name": "alternative therapy"
+        },
+        {
+            "id": 8,
+            "type": "Therapy",
+            "name": "androgen replacement therapy"
+        },
+        {
+            "id": 9,
+            "type": "Therapy",
+            "name": "animal-assisted therapy"
+        },
+        {
+            "id": 10,
+            "type": "Therapy",
+            "name": "antibody therapy"
+        },
+        {
+            "id": 11,
+            "type": "Therapy",
+            "name": "antihormone therapy"
+        },
+        {
+            "id": 12,
+            "type": "Therapy",
+            "name": "antiserum\u00a0therapy"
+        },
+        {
+            "id": 13,
+            "type": "Therapy",
+            "name": "aquarium therapy"
+        },
+        {
+            "id": 14,
+            "type": "Therapy",
+            "name": "aquatic therapy"
+        },
+        {
+            "id": 15,
+            "type": "Therapy",
+            "name": "aromatherapy"
+        },
+        {
+            "id": 16,
+            "type": "Therapy",
+            "name": "art therapy"
+        },
+        {
+            "id": 17,
+            "type": "Therapy",
+            "name": "Auger therapy"
+        },
+        {
+            "id": 18,
+            "type": "Therapy",
+            "name": "aurotherapy"
+        },
+        {
+            "id": 19,
+            "type": "Therapy",
+            "name": "autism therapies"
+        },
+        {
+            "id": 20,
+            "type": "Therapy",
+            "name": "autologous immune enhancement therapy"
+        },
+        {
+            "id": 21,
+            "type": "Therapy",
+            "name": "balneotherapy"
+        },
+        {
+            "id": 22,
+            "type": "Therapy",
+            "name": "bioidentical hormone replacement therapy"
+        },
+        {
+            "id": 23,
+            "type": "Therapy",
+            "name": "biotherapy"
+        },
+        {
+            "id": 24,
+            "type": "Therapy",
+            "name": "blood irradiation therapy"
+        },
+        {
+            "id": 25,
+            "type": "Therapy",
+            "name": "brachytherapy"
+        },
+        {
+            "id": 26,
+            "type": "Therapy",
+            "name": "cardiac resynchronization therapy"
+        },
+        {
+            "id": 27,
+            "type": "Therapy",
+            "name": "cell therapy"
+        },
+        {
+            "id": 28,
+            "type": "Therapy",
+            "name": "cytotherapy"
+        },
+        {
+            "id": 29,
+            "type": "Therapy",
+            "name": "cell transfer therapy"
+        },
+        {
+            "id": 30,
+            "type": "Therapy",
+            "name": "chelation therapy"
+        },
+        {
+            "id": 31,
+            "type": "Therapy",
+            "name": "chemotherapy"
+        },
+        {
+            "id": 32,
+            "type": "Therapy",
+            "name": "Chinese food therapy"
+        },
+        {
+            "id": 33,
+            "type": "Therapy",
+            "name": "chiropractic\u00a0therapy"
+        },
+        {
+            "id": 34,
+            "type": "Therapy",
+            "name": "chronotherapy"
+        },
+        {
+            "id": 35,
+            "type": "Therapy",
+            "name": "chrysotherapy"
+        },
+        {
+            "id": 36,
+            "type": "Therapy",
+            "name": "climatotherapy"
+        },
+        {
+            "id": 37,
+            "type": "Therapy",
+            "name": "cobalt therapy"
+        },
+        {
+            "id": 38,
+            "type": "Therapy",
+            "name": "cold compression therapy"
+        },
+        {
+            "id": 39,
+            "type": "Therapy",
+            "name": "combination therapy"
+        },
+        {
+            "id": 40,
+            "type": "Therapy",
+            "name": "consolidation therapy"
+        },
+        {
+            "id": 41,
+            "type": "Therapy",
+            "name": "contrast bath therapy"
+        },
+        {
+            "id": 42,
+            "type": "Therapy",
+            "name": "counseling"
+        },
+        {
+            "id": 43,
+            "type": "Therapy",
+            "name": "craniosacral therapy"
+        },
+        {
+            "id": 44,
+            "type": "Therapy",
+            "name": "cryotherapy"
+        },
+        {
+            "id": 45,
+            "type": "Therapy",
+            "name": "crystal therapy"
+        },
+        {
+            "id": 46,
+            "type": "Therapy",
+            "name": "cupping therapy"
+        },
+        {
+            "id": 47,
+            "type": "Therapy",
+            "name": "curative therapy"
+        },
+        {
+            "id": 48,
+            "type": "Therapy",
+            "name": "cytoluminescent therapy"
+        },
+        {
+            "id": 49,
+            "type": "Therapy",
+            "name": "dark therapy"
+        },
+        {
+            "id": 50,
+            "type": "Therapy",
+            "name": "definitive therapy"
+        },
+        {
+            "id": 51,
+            "type": "Therapy",
+            "name": "destination therapy"
+        },
+        {
+            "id": 52,
+            "type": "Therapy",
+            "name": "diathermy"
+        },
+        {
+            "id": 53,
+            "type": "Therapy",
+            "name": "diesel therapy"
+        },
+        {
+            "id": 54,
+            "type": "Therapy",
+            "name": "dietary therapy"
+        },
+        {
+            "id": 55,
+            "type": "Therapy",
+            "name": "drug therapy"
+        },
+        {
+            "id": 56,
+            "type": "Therapy",
+            "name": "duct tape occlusion therapy"
+        },
+        {
+            "id": 57,
+            "type": "Therapy",
+            "name": "electrohomeopathy"
+        },
+        {
+            "id": 58,
+            "type": "Therapy",
+            "name": "electroconvulsive therapy"
+        },
+        {
+            "id": 59,
+            "type": "Therapy",
+            "name": "electromagnetic therapy"
+        },
+        {
+            "id": 60,
+            "type": "Therapy",
+            "name": "electron therapy"
+        },
+        {
+            "id": 61,
+            "type": "Therapy",
+            "name": "electrotherapy"
+        },
+        {
+            "id": 62,
+            "type": "Therapy",
+            "name": "empiric therapy"
+        },
+        {
+            "id": 63,
+            "type": "Therapy",
+            "name": "energy therapy"
+        },
+        {
+            "id": 64,
+            "type": "Therapy",
+            "name": "enzyme replacement therapy"
+        },
+        {
+            "id": 65,
+            "type": "Therapy",
+            "name": "epigenetic therapy"
+        },
+        {
+            "id": 66,
+            "type": "Therapy",
+            "name": "equine therapy"
+        },
+        {
+            "id": 67,
+            "type": "Therapy",
+            "name": "estrogen replacement therapy"
+        },
+        {
+            "id": 68,
+            "type": "Therapy",
+            "name": "exercise therapy"
+        },
+        {
+            "id": 69,
+            "type": "Therapy",
+            "name": "extracorporeal shockwave therapy"
+        },
+        {
+            "id": 70,
+            "type": "Therapy",
+            "name": "fast neutron therapy"
+        },
+        {
+            "id": 71,
+            "type": "Therapy",
+            "name": "Feldenkrais therapy"
+        },
+        {
+            "id": 72,
+            "type": "Therapy",
+            "name": "feminizing hormone therapy"
+        },
+        {
+            "id": 73,
+            "type": "Therapy",
+            "name": "fluoride therapy"
+        },
+        {
+            "id": 74,
+            "type": "Therapy",
+            "name": "gene therapy"
+        },
+        {
+            "id": 75,
+            "type": "Therapy",
+            "name": "gene therapy for color blindness"
+        },
+        {
+            "id": 76,
+            "type": "Therapy",
+            "name": "gene therapy for epilepsy"
+        },
+        {
+            "id": 77,
+            "type": "Therapy",
+            "name": "gene therapy for osteoarthritis"
+        },
+        {
+            "id": 78,
+            "type": "Therapy",
+            "name": "gene therapy in Parkinson's disease"
+        },
+        {
+            "id": 79,
+            "type": "Therapy",
+            "name": "gene therapy of the human retina"
+        },
+        {
+            "id": 80,
+            "type": "Therapy",
+            "name": "gold standard therapy"
+        },
+        {
+            "id": 81,
+            "type": "Therapy",
+            "name": "grape therapy"
+        },
+        {
+            "id": 82,
+            "type": "Therapy",
+            "name": "Greyhound therapy"
+        },
+        {
+            "id": 83,
+            "type": "Therapy",
+            "name": "halotherapy"
+        },
+        {
+            "id": 84,
+            "type": "Therapy",
+            "name": "heat therapy"
+        },
+        {
+            "id": 85,
+            "type": "Therapy",
+            "name": "helminthic therapy"
+        },
+        {
+            "id": 86,
+            "type": "Therapy",
+            "name": "herbal therapy"
+        },
+        {
+            "id": 87,
+            "type": "Therapy",
+            "name": "hippotherapy"
+        },
+        {
+            "id": 88,
+            "type": "Therapy",
+            "name": "hormone therapy"
+        },
+        {
+            "id": 89,
+            "type": "Therapy",
+            "name": "hormonal therapy"
+        },
+        {
+            "id": 90,
+            "type": "Therapy",
+            "name": "hormone replacement therapy"
+        },
+        {
+            "id": 91,
+            "type": "Therapy",
+            "name": "horticultural therapy"
+        },
+        {
+            "id": 92,
+            "type": "Therapy",
+            "name": "host modulatory therapy"
+        },
+        {
+            "id": 93,
+            "type": "Therapy",
+            "name": "hydrotherapy"
+        },
+        {
+            "id": 94,
+            "type": "Therapy",
+            "name": "hyperbaric oxygen therapy"
+        },
+        {
+            "id": 95,
+            "type": "Therapy",
+            "name": "hyperthermia therapy"
+        },
+        {
+            "id": 96,
+            "type": "Therapy",
+            "name": "hypothermia therapy for neonatal encephalopathy"
+        },
+        {
+            "id": 97,
+            "type": "Therapy",
+            "name": "ichthyotherapy"
+        },
+        {
+            "id": 98,
+            "type": "Therapy",
+            "name": "immunosuppressive therapy"
+        }
+    ]
+}
