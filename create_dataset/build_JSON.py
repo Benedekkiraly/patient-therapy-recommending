@@ -24,6 +24,8 @@ with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejl
     myJSON = {'Conditions': lstConds, 'Therapies': lstTherapies}
 
     json.dump(myJSON, jsonFile, indent=4)
+    
+with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/dataset.JSON", "w") as jsonFile:
 
     with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/names.txt") as file:
         for line in file:
@@ -48,6 +50,5 @@ with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejl
                 {'id': k, 'name': line.rstrip(), 'trials': lstTrials})
             k += 1
 
-    myJSON = {'Conditions': lstConds,
-              'Therapies': lstTherapies, 'Patients': lstPatients}
+    myJSON = {'Conditions': lstConds, 'Therapies': lstTherapies, 'Patients': lstPatients}
     json.dump(myJSON, jsonFile, indent=4)
