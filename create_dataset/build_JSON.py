@@ -9,26 +9,17 @@ j = 1
 lstTherapies = []
 k = 1
 lstPatients = []
-with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/dataset.JSON", "w") as jsonFile:
-
-    with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/conditions.txt") as file:
+with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/UNITN/Data_Mining/final_project/patient-therapy-recommending/create_dataset/conditions.txt") as file:
         for line in file:
             lstConds.append(
                 {'id': i, 'type': "Condition", 'name': line.rstrip()})
             i += 1
-    with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/therapies.txt") as file:
+with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/UNITN/Data_Mining/final_project/patient-therapy-recommending/create_dataset/therapies.txt") as file:
         for line in file:
             lstTherapies.append(
                 {'id': 'th'+str(j), 'type': "Therapy", 'name': line.rstrip()})
             j += 1
-
-    myJSON = {'Conditions': lstConds, 'Therapies': lstTherapies}
-
-    json.dump(myJSON, jsonFile, indent=4)
-
-with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/dataset.JSON", "w") as jsonFile:
-
-    with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/Trento/Data_Mining/final_project/patient-therapy-recommending/create_dataset/names.txt") as file:
+with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/UNITN/Data_Mining/final_project/patient-therapy-recommending/create_dataset/names.txt") as file:
         for line in file:
             i = 1
             conditionCount = randrange(1, 20)
@@ -74,6 +65,9 @@ with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejl
             lstPatients.append(
                 {'id': k, 'name': line.rstrip(), 'conditions': lstPreConds, 'trials': lstTrials})
             k += 1
-    myJSON = {'Conditions': lstConds,
-              'Therapies': lstTherapies, 'Patients': lstPatients}
-    json.dump(myJSON, jsonFile, indent=4)
+            print(line)
+with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/UNITN/Data_Mining/final_project/patient-therapy-recommending/create_dataset/dataset.JSON", "w") as jsonFile:
+    myJSON = {'Conditions': lstConds, 'Therapies': lstTherapies, 'Patients': lstPatients}
+    finalJSON = json.dumps(myJSON,  indent=4)
+    print(len(finalJSON))
+    jsonFile.write(finalJSON)
