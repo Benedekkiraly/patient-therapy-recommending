@@ -13,12 +13,12 @@ lstTherapies = []
 lstTherapyTypes = ["cognitive-behavioral therapy", "dialectical behavior therapy", "exposure therapy", "interpersonal therapy", "psychodynamic therapy"]
 k = 1
 lstPatients = []
-with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/UNITN/Data_Mining/final_project/patient-therapy-recommending/create_dataset/conditionsshort.txt") as file:
+with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/UNITN/Data_Mining/final_project/patient-therapy-recommending/create_dataset/conditions.txt") as file:
         for line in file:
             lstConds.append(
                 {'id': i,  'name': line.rstrip(), 'type': random.choice(lstCondTypes)})
             i += 1
-with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/UNITN/Data_Mining/final_project/patient-therapy-recommending/create_dataset/therapiesshort.txt") as file:
+with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/UNITN/Data_Mining/final_project/patient-therapy-recommending/create_dataset/therapies.txt") as file:
         for line in file:
             lstTherapies.append(
                 {'id': 'th'+str(j),  'name': line.rstrip(), 'type': random.choice(lstTherapyTypes)})
@@ -70,7 +70,7 @@ with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejl
                 {'id': k, 'name': line.rstrip(), 'conditions': lstPreConds, 'trials': lstTrials})
             k += 1
             print(line)
-with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/UNITN/Data_Mining/final_project/patient-therapy-recommending/create_dataset/dataset_short.JSON", "w") as jsonFile:
+with open("/Users/bendo/Bendo_OneDrive/OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség/Egyetem/UNITN/Data_Mining/final_project/patient-therapy-recommending/create_dataset/dataset.JSON", "w") as jsonFile:
     myJSON = {'Conditions': lstConds, 'Therapies': lstTherapies, 'Patients': lstPatients}
     finalJSON = json.dumps(myJSON,  indent=4)
     print(len(finalJSON))
